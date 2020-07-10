@@ -11,6 +11,21 @@
 		},
 		{
 			"path": "Numbers"
+		},
+		{
+			"path": "Arrays"
+		},
+		{
+			"path": "NullHandling"
+		},
+		{
+			"path": "Formatting"
+		},
+		{
+			"path": "Arguments"
+		},
+		{
+			"path": "Exercise02"
 		}
 	],
 	"settings": {}

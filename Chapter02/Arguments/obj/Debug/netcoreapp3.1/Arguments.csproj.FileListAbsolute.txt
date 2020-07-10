@@ -1,0 +1,13 @@
+C:\Users\jcab\code\Chapter02\Arguments\bin\Debug\netcoreapp3.1\Arguments.exe
+C:\Users\jcab\code\Chapter02\Arguments\bin\Debug\netcoreapp3.1\Arguments.deps.json
+C:\Users\jcab\code\Chapter02\Arguments\bin\Debug\netcoreapp3.1\Arguments.runtimeconfig.json
+C:\Users\jcab\code\Chapter02\Arguments\bin\Debug\netcoreapp3.1\Arguments.runtimeconfig.dev.json
+C:\Users\jcab\code\Chapter02\Arguments\bin\Debug\netcoreapp3.1\Arguments.dll
+C:\Users\jcab\code\Chapter02\Arguments\bin\Debug\netcoreapp3.1\Arguments.pdb
+C:\Users\jcab\code\Chapter02\Arguments\obj\Debug\netcoreapp3.1\Arguments.csprojAssemblyReference.cache
+C:\Users\jcab\code\Chapter02\Arguments\obj\Debug\netcoreapp3.1\Arguments.AssemblyInfoInputs.cache
+C:\Users\jcab\code\Chapter02\Arguments\obj\Debug\netcoreapp3.1\Arguments.AssemblyInfo.cs
+C:\Users\jcab\code\Chapter02\Arguments\obj\Debug\netcoreapp3.1\Arguments.csproj.CoreCompileInputs.cache
+C:\Users\jcab\code\Chapter02\Arguments\obj\Debug\netcoreapp3.1\Arguments.dll
+C:\Users\jcab\code\Chapter02\Arguments\obj\Debug\netcoreapp3.1\Arguments.pdb
+C:\Users\jcab\code\Chapter02\Arguments\obj\Debug\netcoreapp3.1\Arguments.genruntimeconfig.cache
