@@ -1,0 +1,13 @@
+C:\Users\jcab\code\Chapter02\NullHandling\obj\Debug\netcoreapp3.1\NullHandling.csprojAssemblyReference.cache
+C:\Users\jcab\code\Chapter02\NullHandling\obj\Debug\netcoreapp3.1\NullHandling.AssemblyInfoInputs.cache
+C:\Users\jcab\code\Chapter02\NullHandling\obj\Debug\netcoreapp3.1\NullHandling.AssemblyInfo.cs
+C:\Users\jcab\code\Chapter02\NullHandling\obj\Debug\netcoreapp3.1\NullHandling.csproj.CoreCompileInputs.cache
+C:\Users\jcab\code\Chapter02\NullHandling\bin\Debug\netcoreapp3.1\NullHandling.exe
+C:\Users\jcab\code\Chapter02\NullHandling\bin\Debug\netcoreapp3.1\NullHandling.deps.json
+C:\Users\jcab\code\Chapter02\NullHandling\bin\Debug\netcoreapp3.1\NullHandling.runtimeconfig.json
+C:\Users\jcab\code\Chapter02\NullHandling\bin\Debug\netcoreapp3.1\NullHandling.runtimeconfig.dev.json
+C:\Users\jcab\code\Chapter02\NullHandling\bin\Debug\netcoreapp3.1\NullHandling.dll
+C:\Users\jcab\code\Chapter02\NullHandling\bin\Debug\netcoreapp3.1\NullHandling.pdb
+C:\Users\jcab\code\Chapter02\NullHandling\obj\Debug\netcoreapp3.1\NullHandling.dll
+C:\Users\jcab\code\Chapter02\NullHandling\obj\Debug\netcoreapp3.1\NullHandling.pdb
+C:\Users\jcab\code\Chapter02\NullHandling\obj\Debug\netcoreapp3.1\NullHandling.genruntimeconfig.cache
