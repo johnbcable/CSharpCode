@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jcab\\code\\Chapter02\\Exercise02\\Exercise02.csproj",
+      "projectUniqueName": "C:\\Users\\jcab\\CSharpCode\\Chapter02\\Exercise02\\Exercise02.csproj",
       "projectName": "Exercise02",
-      "projectPath": "C:\\Users\\jcab\\code\\Chapter02\\Exercise02\\Exercise02.csproj",
+      "projectPath": "C:\\Users\\jcab\\CSharpCode\\Chapter02\\Exercise02\\Exercise02.csproj",
       "packagesPath": "C:\\Users\\jcab\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jcab\\code\\Chapter02\\Exercise02\\obj\\",
+      "outputPath": "C:\\Users\\jcab\\CSharpCode\\Chapter02\\Exercise02\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

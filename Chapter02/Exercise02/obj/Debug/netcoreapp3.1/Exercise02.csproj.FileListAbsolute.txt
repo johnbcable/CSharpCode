@@ -11,3 +11,16 @@ C:\Users\jcab\code\Chapter02\Exercise02\obj\Debug\netcoreapp3.1\Exercise02.cspro
 C:\Users\jcab\code\Chapter02\Exercise02\obj\Debug\netcoreapp3.1\Exercise02.dll
 C:\Users\jcab\code\Chapter02\Exercise02\obj\Debug\netcoreapp3.1\Exercise02.pdb
 C:\Users\jcab\code\Chapter02\Exercise02\obj\Debug\netcoreapp3.1\Exercise02.genruntimeconfig.cache
+C:\Users\jcab\CSharpCode\Chapter02\Exercise02\bin\Debug\netcoreapp3.1\Exercise02.exe
+C:\Users\jcab\CSharpCode\Chapter02\Exercise02\bin\Debug\netcoreapp3.1\Exercise02.deps.json
+C:\Users\jcab\CSharpCode\Chapter02\Exercise02\bin\Debug\netcoreapp3.1\Exercise02.runtimeconfig.json
+C:\Users\jcab\CSharpCode\Chapter02\Exercise02\bin\Debug\netcoreapp3.1\Exercise02.runtimeconfig.dev.json
+C:\Users\jcab\CSharpCode\Chapter02\Exercise02\bin\Debug\netcoreapp3.1\Exercise02.dll
+C:\Users\jcab\CSharpCode\Chapter02\Exercise02\bin\Debug\netcoreapp3.1\Exercise02.pdb
+C:\Users\jcab\CSharpCode\Chapter02\Exercise02\obj\Debug\netcoreapp3.1\Exercise02.csprojAssemblyReference.cache
+C:\Users\jcab\CSharpCode\Chapter02\Exercise02\obj\Debug\netcoreapp3.1\Exercise02.AssemblyInfoInputs.cache
+C:\Users\jcab\CSharpCode\Chapter02\Exercise02\obj\Debug\netcoreapp3.1\Exercise02.AssemblyInfo.cs
+C:\Users\jcab\CSharpCode\Chapter02\Exercise02\obj\Debug\netcoreapp3.1\Exercise02.csproj.CoreCompileInputs.cache
+C:\Users\jcab\CSharpCode\Chapter02\Exercise02\obj\Debug\netcoreapp3.1\Exercise02.dll
+C:\Users\jcab\CSharpCode\Chapter02\Exercise02\obj\Debug\netcoreapp3.1\Exercise02.pdb
+C:\Users\jcab\CSharpCode\Chapter02\Exercise02\obj\Debug\netcoreapp3.1\Exercise02.genruntimeconfig.cache
