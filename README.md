@@ -16,3 +16,9 @@ Going into more depth in basic language features:
 - arrays, 
 - arguments (command line)
 ### Chapter 3
+This chapter covers controlling flow and converting types with the following topics:
+- Operating on variables
+- Understanding selection and iteration statements
+- Casting and converting between types
+- Handling excepions incl. checking for overflow
+### Chapter 4
