@@ -1,0 +1,13 @@
+C:\Users\jcab\CSharpCode\Chapter03\BooleanOperators\bin\Debug\netcoreapp3.1\BooleanOperators.exe
+C:\Users\jcab\CSharpCode\Chapter03\BooleanOperators\bin\Debug\netcoreapp3.1\BooleanOperators.deps.json
+C:\Users\jcab\CSharpCode\Chapter03\BooleanOperators\bin\Debug\netcoreapp3.1\BooleanOperators.runtimeconfig.json
+C:\Users\jcab\CSharpCode\Chapter03\BooleanOperators\bin\Debug\netcoreapp3.1\BooleanOperators.runtimeconfig.dev.json
+C:\Users\jcab\CSharpCode\Chapter03\BooleanOperators\bin\Debug\netcoreapp3.1\BooleanOperators.dll
+C:\Users\jcab\CSharpCode\Chapter03\BooleanOperators\bin\Debug\netcoreapp3.1\BooleanOperators.pdb
+C:\Users\jcab\CSharpCode\Chapter03\BooleanOperators\obj\Debug\netcoreapp3.1\BooleanOperators.csprojAssemblyReference.cache
+C:\Users\jcab\CSharpCode\Chapter03\BooleanOperators\obj\Debug\netcoreapp3.1\BooleanOperators.AssemblyInfoInputs.cache
+C:\Users\jcab\CSharpCode\Chapter03\BooleanOperators\obj\Debug\netcoreapp3.1\BooleanOperators.AssemblyInfo.cs
+C:\Users\jcab\CSharpCode\Chapter03\BooleanOperators\obj\Debug\netcoreapp3.1\BooleanOperators.csproj.CoreCompileInputs.cache
+C:\Users\jcab\CSharpCode\Chapter03\BooleanOperators\obj\Debug\netcoreapp3.1\BooleanOperators.dll
+C:\Users\jcab\CSharpCode\Chapter03\BooleanOperators\obj\Debug\netcoreapp3.1\BooleanOperators.pdb
+C:\Users\jcab\CSharpCode\Chapter03\BooleanOperators\obj\Debug\netcoreapp3.1\BooleanOperators.genruntimeconfig.cache

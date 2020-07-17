@@ -1,0 +1,13 @@
+C:\Users\jcab\CSharpCode\Chapter04\WritingFunctions\bin\Debug\netcoreapp3.1\WritingFunctions.exe
+C:\Users\jcab\CSharpCode\Chapter04\WritingFunctions\bin\Debug\netcoreapp3.1\WritingFunctions.deps.json
+C:\Users\jcab\CSharpCode\Chapter04\WritingFunctions\bin\Debug\netcoreapp3.1\WritingFunctions.runtimeconfig.json
+C:\Users\jcab\CSharpCode\Chapter04\WritingFunctions\bin\Debug\netcoreapp3.1\WritingFunctions.runtimeconfig.dev.json
+C:\Users\jcab\CSharpCode\Chapter04\WritingFunctions\bin\Debug\netcoreapp3.1\WritingFunctions.dll
+C:\Users\jcab\CSharpCode\Chapter04\WritingFunctions\bin\Debug\netcoreapp3.1\WritingFunctions.pdb
+C:\Users\jcab\CSharpCode\Chapter04\WritingFunctions\obj\Debug\netcoreapp3.1\WritingFunctions.csprojAssemblyReference.cache
+C:\Users\jcab\CSharpCode\Chapter04\WritingFunctions\obj\Debug\netcoreapp3.1\WritingFunctions.AssemblyInfoInputs.cache
+C:\Users\jcab\CSharpCode\Chapter04\WritingFunctions\obj\Debug\netcoreapp3.1\WritingFunctions.AssemblyInfo.cs
+C:\Users\jcab\CSharpCode\Chapter04\WritingFunctions\obj\Debug\netcoreapp3.1\WritingFunctions.csproj.CoreCompileInputs.cache
+C:\Users\jcab\CSharpCode\Chapter04\WritingFunctions\obj\Debug\netcoreapp3.1\WritingFunctions.dll
+C:\Users\jcab\CSharpCode\Chapter04\WritingFunctions\obj\Debug\netcoreapp3.1\WritingFunctions.pdb
+C:\Users\jcab\CSharpCode\Chapter04\WritingFunctions\obj\Debug\netcoreapp3.1\WritingFunctions.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\jcab\CSharpCode\Chapter03\BitwiseAndShiftOperators\bin\Debug\netcoreapp3.1\BitwiseAndShiftOperators.exe
+C:\Users\jcab\CSharpCode\Chapter03\BitwiseAndShiftOperators\bin\Debug\netcoreapp3.1\BitwiseAndShiftOperators.deps.json
+C:\Users\jcab\CSharpCode\Chapter03\BitwiseAndShiftOperators\bin\Debug\netcoreapp3.1\BitwiseAndShiftOperators.runtimeconfig.json
+C:\Users\jcab\CSharpCode\Chapter03\BitwiseAndShiftOperators\bin\Debug\netcoreapp3.1\BitwiseAndShiftOperators.runtimeconfig.dev.json
+C:\Users\jcab\CSharpCode\Chapter03\BitwiseAndShiftOperators\bin\Debug\netcoreapp3.1\BitwiseAndShiftOperators.dll
+C:\Users\jcab\CSharpCode\Chapter03\BitwiseAndShiftOperators\bin\Debug\netcoreapp3.1\BitwiseAndShiftOperators.pdb
+C:\Users\jcab\CSharpCode\Chapter03\BitwiseAndShiftOperators\obj\Debug\netcoreapp3.1\BitwiseAndShiftOperators.csprojAssemblyReference.cache
+C:\Users\jcab\CSharpCode\Chapter03\BitwiseAndShiftOperators\obj\Debug\netcoreapp3.1\BitwiseAndShiftOperators.AssemblyInfoInputs.cache
+C:\Users\jcab\CSharpCode\Chapter03\BitwiseAndShiftOperators\obj\Debug\netcoreapp3.1\BitwiseAndShiftOperators.AssemblyInfo.cs
+C:\Users\jcab\CSharpCode\Chapter03\BitwiseAndShiftOperators\obj\Debug\netcoreapp3.1\BitwiseAndShiftOperators.csproj.CoreCompileInputs.cache
+C:\Users\jcab\CSharpCode\Chapter03\BitwiseAndShiftOperators\obj\Debug\netcoreapp3.1\BitwiseAndShiftOperators.dll
+C:\Users\jcab\CSharpCode\Chapter03\BitwiseAndShiftOperators\obj\Debug\netcoreapp3.1\BitwiseAndShiftOperators.pdb
+C:\Users\jcab\CSharpCode\Chapter03\BitwiseAndShiftOperators\obj\Debug\netcoreapp3.1\BitwiseAndShiftOperators.genruntimeconfig.cache

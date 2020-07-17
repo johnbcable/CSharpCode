@@ -1,0 +1,13 @@
+C:\Users\jcab\CSharpCode\Chapter03\CheckingForOverflow\bin\Debug\netcoreapp3.1\CheckingForOverflow.exe
+C:\Users\jcab\CSharpCode\Chapter03\CheckingForOverflow\bin\Debug\netcoreapp3.1\CheckingForOverflow.deps.json
+C:\Users\jcab\CSharpCode\Chapter03\CheckingForOverflow\bin\Debug\netcoreapp3.1\CheckingForOverflow.runtimeconfig.json
+C:\Users\jcab\CSharpCode\Chapter03\CheckingForOverflow\bin\Debug\netcoreapp3.1\CheckingForOverflow.runtimeconfig.dev.json
+C:\Users\jcab\CSharpCode\Chapter03\CheckingForOverflow\bin\Debug\netcoreapp3.1\CheckingForOverflow.dll
+C:\Users\jcab\CSharpCode\Chapter03\CheckingForOverflow\bin\Debug\netcoreapp3.1\CheckingForOverflow.pdb
+C:\Users\jcab\CSharpCode\Chapter03\CheckingForOverflow\obj\Debug\netcoreapp3.1\CheckingForOverflow.csprojAssemblyReference.cache
+C:\Users\jcab\CSharpCode\Chapter03\CheckingForOverflow\obj\Debug\netcoreapp3.1\CheckingForOverflow.AssemblyInfoInputs.cache
+C:\Users\jcab\CSharpCode\Chapter03\CheckingForOverflow\obj\Debug\netcoreapp3.1\CheckingForOverflow.AssemblyInfo.cs
+C:\Users\jcab\CSharpCode\Chapter03\CheckingForOverflow\obj\Debug\netcoreapp3.1\CheckingForOverflow.csproj.CoreCompileInputs.cache
+C:\Users\jcab\CSharpCode\Chapter03\CheckingForOverflow\obj\Debug\netcoreapp3.1\CheckingForOverflow.dll
+C:\Users\jcab\CSharpCode\Chapter03\CheckingForOverflow\obj\Debug\netcoreapp3.1\CheckingForOverflow.pdb
+C:\Users\jcab\CSharpCode\Chapter03\CheckingForOverflow\obj\Debug\netcoreapp3.1\CheckingForOverflow.genruntimeconfig.cache

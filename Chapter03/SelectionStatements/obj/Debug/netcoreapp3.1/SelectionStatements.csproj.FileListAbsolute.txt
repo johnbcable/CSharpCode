@@ -1,0 +1,13 @@
+C:\Users\jcab\CSharpCode\Chapter03\SelectionStatements\bin\Debug\netcoreapp3.1\SelectionStatements.exe
+C:\Users\jcab\CSharpCode\Chapter03\SelectionStatements\bin\Debug\netcoreapp3.1\SelectionStatements.deps.json
+C:\Users\jcab\CSharpCode\Chapter03\SelectionStatements\bin\Debug\netcoreapp3.1\SelectionStatements.runtimeconfig.json
+C:\Users\jcab\CSharpCode\Chapter03\SelectionStatements\bin\Debug\netcoreapp3.1\SelectionStatements.runtimeconfig.dev.json
+C:\Users\jcab\CSharpCode\Chapter03\SelectionStatements\bin\Debug\netcoreapp3.1\SelectionStatements.dll
+C:\Users\jcab\CSharpCode\Chapter03\SelectionStatements\bin\Debug\netcoreapp3.1\SelectionStatements.pdb
+C:\Users\jcab\CSharpCode\Chapter03\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.csprojAssemblyReference.cache
+C:\Users\jcab\CSharpCode\Chapter03\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.AssemblyInfoInputs.cache
+C:\Users\jcab\CSharpCode\Chapter03\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.AssemblyInfo.cs
+C:\Users\jcab\CSharpCode\Chapter03\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.csproj.CoreCompileInputs.cache
+C:\Users\jcab\CSharpCode\Chapter03\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.dll
+C:\Users\jcab\CSharpCode\Chapter03\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.pdb
+C:\Users\jcab\CSharpCode\Chapter03\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.genruntimeconfig.cache

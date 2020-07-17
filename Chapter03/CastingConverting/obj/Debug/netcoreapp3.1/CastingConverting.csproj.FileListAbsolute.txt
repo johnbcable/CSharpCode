@@ -1,0 +1,13 @@
+C:\Users\jcab\CSharpCode\Chapter03\CastingConverting\obj\Debug\netcoreapp3.1\CastingConverting.csprojAssemblyReference.cache
+C:\Users\jcab\CSharpCode\Chapter03\CastingConverting\obj\Debug\netcoreapp3.1\CastingConverting.AssemblyInfoInputs.cache
+C:\Users\jcab\CSharpCode\Chapter03\CastingConverting\obj\Debug\netcoreapp3.1\CastingConverting.AssemblyInfo.cs
+C:\Users\jcab\CSharpCode\Chapter03\CastingConverting\obj\Debug\netcoreapp3.1\CastingConverting.csproj.CoreCompileInputs.cache
+C:\Users\jcab\CSharpCode\Chapter03\CastingConverting\bin\Debug\netcoreapp3.1\CastingConverting.exe
+C:\Users\jcab\CSharpCode\Chapter03\CastingConverting\bin\Debug\netcoreapp3.1\CastingConverting.deps.json
+C:\Users\jcab\CSharpCode\Chapter03\CastingConverting\bin\Debug\netcoreapp3.1\CastingConverting.runtimeconfig.json
+C:\Users\jcab\CSharpCode\Chapter03\CastingConverting\bin\Debug\netcoreapp3.1\CastingConverting.runtimeconfig.dev.json
+C:\Users\jcab\CSharpCode\Chapter03\CastingConverting\bin\Debug\netcoreapp3.1\CastingConverting.dll
+C:\Users\jcab\CSharpCode\Chapter03\CastingConverting\bin\Debug\netcoreapp3.1\CastingConverting.pdb
+C:\Users\jcab\CSharpCode\Chapter03\CastingConverting\obj\Debug\netcoreapp3.1\CastingConverting.dll
+C:\Users\jcab\CSharpCode\Chapter03\CastingConverting\obj\Debug\netcoreapp3.1\CastingConverting.pdb
+C:\Users\jcab\CSharpCode\Chapter03\CastingConverting\obj\Debug\netcoreapp3.1\CastingConverting.genruntimeconfig.cache

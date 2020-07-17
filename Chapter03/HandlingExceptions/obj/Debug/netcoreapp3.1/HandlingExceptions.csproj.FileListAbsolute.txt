@@ -1,0 +1,13 @@
+C:\Users\jcab\CSharpCode\Chapter03\HandlingExceptions\bin\Debug\netcoreapp3.1\HandlingExceptions.exe
+C:\Users\jcab\CSharpCode\Chapter03\HandlingExceptions\bin\Debug\netcoreapp3.1\HandlingExceptions.deps.json
+C:\Users\jcab\CSharpCode\Chapter03\HandlingExceptions\bin\Debug\netcoreapp3.1\HandlingExceptions.runtimeconfig.json
+C:\Users\jcab\CSharpCode\Chapter03\HandlingExceptions\bin\Debug\netcoreapp3.1\HandlingExceptions.runtimeconfig.dev.json
+C:\Users\jcab\CSharpCode\Chapter03\HandlingExceptions\bin\Debug\netcoreapp3.1\HandlingExceptions.dll
+C:\Users\jcab\CSharpCode\Chapter03\HandlingExceptions\bin\Debug\netcoreapp3.1\HandlingExceptions.pdb
+C:\Users\jcab\CSharpCode\Chapter03\HandlingExceptions\obj\Debug\netcoreapp3.1\HandlingExceptions.csprojAssemblyReference.cache
+C:\Users\jcab\CSharpCode\Chapter03\HandlingExceptions\obj\Debug\netcoreapp3.1\HandlingExceptions.AssemblyInfoInputs.cache
+C:\Users\jcab\CSharpCode\Chapter03\HandlingExceptions\obj\Debug\netcoreapp3.1\HandlingExceptions.AssemblyInfo.cs
+C:\Users\jcab\CSharpCode\Chapter03\HandlingExceptions\obj\Debug\netcoreapp3.1\HandlingExceptions.csproj.CoreCompileInputs.cache
+C:\Users\jcab\CSharpCode\Chapter03\HandlingExceptions\obj\Debug\netcoreapp3.1\HandlingExceptions.dll
+C:\Users\jcab\CSharpCode\Chapter03\HandlingExceptions\obj\Debug\netcoreapp3.1\HandlingExceptions.pdb
+C:\Users\jcab\CSharpCode\Chapter03\HandlingExceptions\obj\Debug\netcoreapp3.1\HandlingExceptions.genruntimeconfig.cache

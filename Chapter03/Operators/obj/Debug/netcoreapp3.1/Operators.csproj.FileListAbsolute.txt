@@ -1,0 +1,13 @@
+C:\Users\jcab\CSharpCode\Chapter03\Operators\bin\Debug\netcoreapp3.1\Operators.exe
+C:\Users\jcab\CSharpCode\Chapter03\Operators\bin\Debug\netcoreapp3.1\Operators.deps.json
+C:\Users\jcab\CSharpCode\Chapter03\Operators\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.json
+C:\Users\jcab\CSharpCode\Chapter03\Operators\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.dev.json
+C:\Users\jcab\CSharpCode\Chapter03\Operators\bin\Debug\netcoreapp3.1\Operators.dll
+C:\Users\jcab\CSharpCode\Chapter03\Operators\bin\Debug\netcoreapp3.1\Operators.pdb
+C:\Users\jcab\CSharpCode\Chapter03\Operators\obj\Debug\netcoreapp3.1\Operators.csprojAssemblyReference.cache
+C:\Users\jcab\CSharpCode\Chapter03\Operators\obj\Debug\netcoreapp3.1\Operators.AssemblyInfoInputs.cache
+C:\Users\jcab\CSharpCode\Chapter03\Operators\obj\Debug\netcoreapp3.1\Operators.AssemblyInfo.cs
+C:\Users\jcab\CSharpCode\Chapter03\Operators\obj\Debug\netcoreapp3.1\Operators.csproj.CoreCompileInputs.cache
+C:\Users\jcab\CSharpCode\Chapter03\Operators\obj\Debug\netcoreapp3.1\Operators.dll
+C:\Users\jcab\CSharpCode\Chapter03\Operators\obj\Debug\netcoreapp3.1\Operators.pdb
+C:\Users\jcab\CSharpCode\Chapter03\Operators\obj\Debug\netcoreapp3.1\Operators.genruntimeconfig.cache

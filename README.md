@@ -22,3 +22,9 @@ This chapter covers controlling flow and converting types with the following top
 - Casting and converting between types
 - Handling excepions incl. checking for overflow
 ### Chapter 4
+This chapter is all about writing, debugging and testing functions. It covers the following topics:
+- Writing functions
+- Debugging, during development
+- Logging, during runtime
+- Unit testing
+
