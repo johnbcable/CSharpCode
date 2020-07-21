@@ -28,3 +28,5 @@ This chapter is all about writing, debugging and testing functions. It covers th
 - Logging, during runtime
 - Unit testing
 
+It also introduces use of one of the recommended VS Code extensions - C# XML Documentation Comments
+
