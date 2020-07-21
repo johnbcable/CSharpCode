@@ -5,6 +5,15 @@
 		},
 		{
 			"path": "WritingFunctions"
+		},
+		{
+			"path": "Instrumenting"
+		},
+		{
+			"path": "Debugging"
+		},
+		{
+			"path": "Dumping"
 		}
 	],
 	"settings": {}

@@ -1,0 +1,13 @@
+C:\Users\jcab\CSharpCode\Chapter04\Instrumenting\bin\Debug\netcoreapp3.1\Instrumenting.exe
+C:\Users\jcab\CSharpCode\Chapter04\Instrumenting\bin\Debug\netcoreapp3.1\Instrumenting.deps.json
+C:\Users\jcab\CSharpCode\Chapter04\Instrumenting\bin\Debug\netcoreapp3.1\Instrumenting.runtimeconfig.json
+C:\Users\jcab\CSharpCode\Chapter04\Instrumenting\bin\Debug\netcoreapp3.1\Instrumenting.runtimeconfig.dev.json
+C:\Users\jcab\CSharpCode\Chapter04\Instrumenting\bin\Debug\netcoreapp3.1\Instrumenting.dll
+C:\Users\jcab\CSharpCode\Chapter04\Instrumenting\bin\Debug\netcoreapp3.1\Instrumenting.pdb
+C:\Users\jcab\CSharpCode\Chapter04\Instrumenting\obj\Debug\netcoreapp3.1\Instrumenting.csprojAssemblyReference.cache
+C:\Users\jcab\CSharpCode\Chapter04\Instrumenting\obj\Debug\netcoreapp3.1\Instrumenting.AssemblyInfoInputs.cache
+C:\Users\jcab\CSharpCode\Chapter04\Instrumenting\obj\Debug\netcoreapp3.1\Instrumenting.AssemblyInfo.cs
+C:\Users\jcab\CSharpCode\Chapter04\Instrumenting\obj\Debug\netcoreapp3.1\Instrumenting.csproj.CoreCompileInputs.cache
+C:\Users\jcab\CSharpCode\Chapter04\Instrumenting\obj\Debug\netcoreapp3.1\Instrumenting.dll
+C:\Users\jcab\CSharpCode\Chapter04\Instrumenting\obj\Debug\netcoreapp3.1\Instrumenting.pdb
+C:\Users\jcab\CSharpCode\Chapter04\Instrumenting\obj\Debug\netcoreapp3.1\Instrumenting.genruntimeconfig.cache

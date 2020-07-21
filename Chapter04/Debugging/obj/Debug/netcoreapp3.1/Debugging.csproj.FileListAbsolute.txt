@@ -1,0 +1,13 @@
+C:\Users\jcab\CSharpCode\Chapter04\Debugging\obj\Debug\netcoreapp3.1\Debugging.csprojAssemblyReference.cache
+C:\Users\jcab\CSharpCode\Chapter04\Debugging\obj\Debug\netcoreapp3.1\Debugging.AssemblyInfoInputs.cache
+C:\Users\jcab\CSharpCode\Chapter04\Debugging\obj\Debug\netcoreapp3.1\Debugging.AssemblyInfo.cs
+C:\Users\jcab\CSharpCode\Chapter04\Debugging\obj\Debug\netcoreapp3.1\Debugging.csproj.CoreCompileInputs.cache
+C:\Users\jcab\CSharpCode\Chapter04\Debugging\bin\Debug\netcoreapp3.1\Debugging.exe
+C:\Users\jcab\CSharpCode\Chapter04\Debugging\bin\Debug\netcoreapp3.1\Debugging.deps.json
+C:\Users\jcab\CSharpCode\Chapter04\Debugging\bin\Debug\netcoreapp3.1\Debugging.runtimeconfig.json
+C:\Users\jcab\CSharpCode\Chapter04\Debugging\bin\Debug\netcoreapp3.1\Debugging.runtimeconfig.dev.json
+C:\Users\jcab\CSharpCode\Chapter04\Debugging\bin\Debug\netcoreapp3.1\Debugging.dll
+C:\Users\jcab\CSharpCode\Chapter04\Debugging\bin\Debug\netcoreapp3.1\Debugging.pdb
+C:\Users\jcab\CSharpCode\Chapter04\Debugging\obj\Debug\netcoreapp3.1\Debugging.dll
+C:\Users\jcab\CSharpCode\Chapter04\Debugging\obj\Debug\netcoreapp3.1\Debugging.pdb
+C:\Users\jcab\CSharpCode\Chapter04\Debugging\obj\Debug\netcoreapp3.1\Debugging.genruntimeconfig.cache
