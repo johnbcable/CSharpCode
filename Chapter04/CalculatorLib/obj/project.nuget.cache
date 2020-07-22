@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+Qu3NEL/efNcSSyK0NHGCaZ2LuMZ6BrQqCADRe7Bm4723uMPdHKzeRdzePBmadaGfThfrc5/96JM2gCWIOrFsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jcab\\CSharpCode\\Chapter04\\Calculatorlib\\CalculatorLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jcab\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jcab\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
