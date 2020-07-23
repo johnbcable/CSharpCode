@@ -26,7 +26,15 @@ This chapter is all about writing, debugging and testing functions. It covers th
 - Writing functions
 - Debugging, during development
 - Logging, during runtime
-- Unit testing
+- Unit testing (using xUnit.net)
 
-It also introduces use of one of the recommended VS Code extensions - C# XML Documentation Comments
+It also introduces use of some of the recommended VS Code extensions - C# XML Documentation Comments, SharpPad etc
+
+### Chapter 5
+This chapter covers use of Object Orinted Programming (OOP) techniques in C#. It covers the following topics:
+- Intrdouction to OOP concepts
+- Building class libraries
+- Storing data with fields
+- Writing and calling methods
+- Controlling access with properties and indexers
 

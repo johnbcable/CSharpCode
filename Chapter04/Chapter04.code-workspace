@@ -5,6 +5,21 @@
 		},
 		{
 			"path": "WritingFunctions"
+		},
+		{
+			"path": "Instrumenting"
+		},
+		{
+			"path": "Debugging"
+		},
+		{
+			"path": "Dumping"
+		},
+		{
+			"path": "CalculatorLib"
+		},
+		{
+			"path": "CalculatorLibUnitTests"
 		}
 	],
 	"settings": {}

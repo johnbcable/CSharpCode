@@ -1,0 +1,12 @@
+C:\Users\jcab\CSharpCode\Chapter04\Dumping\bin\Debug\netcoreapp2.0\Dumping.deps.json
+C:\Users\jcab\CSharpCode\Chapter04\Dumping\bin\Debug\netcoreapp2.0\Dumping.runtimeconfig.json
+C:\Users\jcab\CSharpCode\Chapter04\Dumping\bin\Debug\netcoreapp2.0\Dumping.runtimeconfig.dev.json
+C:\Users\jcab\CSharpCode\Chapter04\Dumping\bin\Debug\netcoreapp2.0\Dumping.dll
+C:\Users\jcab\CSharpCode\Chapter04\Dumping\bin\Debug\netcoreapp2.0\Dumping.pdb
+C:\Users\jcab\CSharpCode\Chapter04\Dumping\obj\Debug\netcoreapp2.0\Dumping.csprojAssemblyReference.cache
+C:\Users\jcab\CSharpCode\Chapter04\Dumping\obj\Debug\netcoreapp2.0\Dumping.AssemblyInfoInputs.cache
+C:\Users\jcab\CSharpCode\Chapter04\Dumping\obj\Debug\netcoreapp2.0\Dumping.AssemblyInfo.cs
+C:\Users\jcab\CSharpCode\Chapter04\Dumping\obj\Debug\netcoreapp2.0\Dumping.csproj.CoreCompileInputs.cache
+C:\Users\jcab\CSharpCode\Chapter04\Dumping\obj\Debug\netcoreapp2.0\Dumping.dll
+C:\Users\jcab\CSharpCode\Chapter04\Dumping\obj\Debug\netcoreapp2.0\Dumping.pdb
+C:\Users\jcab\CSharpCode\Chapter04\Dumping\obj\Debug\netcoreapp2.0\Dumping.genruntimeconfig.cache

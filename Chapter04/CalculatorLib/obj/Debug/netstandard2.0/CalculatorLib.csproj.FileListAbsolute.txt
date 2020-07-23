@@ -1,0 +1,9 @@
+C:\Users\jcab\CSharpCode\Chapter04\CalculatorLib\bin\Debug\netstandard2.0\CalculatorLib.deps.json
+C:\Users\jcab\CSharpCode\Chapter04\CalculatorLib\bin\Debug\netstandard2.0\CalculatorLib.dll
+C:\Users\jcab\CSharpCode\Chapter04\CalculatorLib\bin\Debug\netstandard2.0\CalculatorLib.pdb
+C:\Users\jcab\CSharpCode\Chapter04\CalculatorLib\obj\Debug\netstandard2.0\CalculatorLib.csprojAssemblyReference.cache
+C:\Users\jcab\CSharpCode\Chapter04\CalculatorLib\obj\Debug\netstandard2.0\CalculatorLib.AssemblyInfoInputs.cache
+C:\Users\jcab\CSharpCode\Chapter04\CalculatorLib\obj\Debug\netstandard2.0\CalculatorLib.AssemblyInfo.cs
+C:\Users\jcab\CSharpCode\Chapter04\CalculatorLib\obj\Debug\netstandard2.0\CalculatorLib.csproj.CoreCompileInputs.cache
+C:\Users\jcab\CSharpCode\Chapter04\CalculatorLib\obj\Debug\netstandard2.0\CalculatorLib.dll
+C:\Users\jcab\CSharpCode\Chapter04\CalculatorLib\obj\Debug\netstandard2.0\CalculatorLib.pdb
