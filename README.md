@@ -31,7 +31,7 @@ This chapter is all about writing, debugging and testing functions. It covers th
 It also introduces use of some of the recommended VS Code extensions - C# XML Documentation Comments, SharpPad etc
 
 ### Chapter 5
-This chapter covers use of Object Orinted Programming (OOP) techniques in C#. It covers the following topics:
+This chapter introduces use of Object Oriented Programming (OOP) techniques in C#. It covers the following topics:
 - Intrdouction to OOP concepts
 - Building class libraries
 - Storing data with fields
