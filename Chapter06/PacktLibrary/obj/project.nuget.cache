@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vS+nUOVEnzM/WbvBf/QZ10C6r8kmkNA94CXxWp7YOZZ2M7qZlyOi3tKFWJ9WHp1Yfj+1XPJqlb5ktIKB06BXnQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jcab\\CSharpCode\\Chapter06\\PacktLibrary\\PacktLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jcab\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jcab\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\jcab\CSharpCode\Chapter06\PeopleApp\bin\Debug\netcoreapp3.1\PeopleApp.exe
+C:\Users\jcab\CSharpCode\Chapter06\PeopleApp\bin\Debug\netcoreapp3.1\PeopleApp.deps.json
+C:\Users\jcab\CSharpCode\Chapter06\PeopleApp\bin\Debug\netcoreapp3.1\PeopleApp.runtimeconfig.json
+C:\Users\jcab\CSharpCode\Chapter06\PeopleApp\bin\Debug\netcoreapp3.1\PeopleApp.runtimeconfig.dev.json
+C:\Users\jcab\CSharpCode\Chapter06\PeopleApp\bin\Debug\netcoreapp3.1\PeopleApp.dll
+C:\Users\jcab\CSharpCode\Chapter06\PeopleApp\bin\Debug\netcoreapp3.1\PeopleApp.pdb
+C:\Users\jcab\CSharpCode\Chapter06\PeopleApp\bin\Debug\netcoreapp3.1\PacktLibrary.dll
+C:\Users\jcab\CSharpCode\Chapter06\PeopleApp\bin\Debug\netcoreapp3.1\PacktLibrary.pdb
+C:\Users\jcab\CSharpCode\Chapter06\PeopleApp\obj\Debug\netcoreapp3.1\PeopleApp.csprojAssemblyReference.cache
+C:\Users\jcab\CSharpCode\Chapter06\PeopleApp\obj\Debug\netcoreapp3.1\PeopleApp.AssemblyInfoInputs.cache
+C:\Users\jcab\CSharpCode\Chapter06\PeopleApp\obj\Debug\netcoreapp3.1\PeopleApp.AssemblyInfo.cs
+C:\Users\jcab\CSharpCode\Chapter06\PeopleApp\obj\Debug\netcoreapp3.1\PeopleApp.csproj.CoreCompileInputs.cache
+C:\Users\jcab\CSharpCode\Chapter06\PeopleApp\obj\Debug\netcoreapp3.1\PeopleApp.csproj.CopyComplete
+C:\Users\jcab\CSharpCode\Chapter06\PeopleApp\obj\Debug\netcoreapp3.1\PeopleApp.dll
+C:\Users\jcab\CSharpCode\Chapter06\PeopleApp\obj\Debug\netcoreapp3.1\PeopleApp.pdb
+C:\Users\jcab\CSharpCode\Chapter06\PeopleApp\obj\Debug\netcoreapp3.1\PeopleApp.genruntimeconfig.cache
