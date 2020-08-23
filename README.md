@@ -52,3 +52,13 @@ This chapter is about deriving new types from existing ones using object-oriente
 - Casting within inheritance hierarchies
 - Inheriting and extending .NET types
 
+Once again, this chapter covers quite a lot of MS-flavoured object-oriented programming (OOP).
+
+### Chapter 7 - Understanding and Packaging .NET Types
+This chapter is about how .NET Core implements the types that are defined in the .NET Standard. This chapter covers the following topics:
+- Introducing .NET Core 3.0
+- Understanding .NET Core components
+- Publishing your aplications for deployment
+- Decompiling assemblies
+- Packaging your libraries for NuGet distribution
+- Porting from .NET Framework to .NET Core

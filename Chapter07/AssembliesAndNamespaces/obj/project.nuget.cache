@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LxWP26Zzg0iIJgvHF1grmq9wVH2+zJ02bOOIPpLuZou4eFtZNo4GfCNwgUdtLx67TojL9H4g2wS8U/nKlqysGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jcab\\CSharpCode\\Chapter07\\AssembliesAndNamespaces\\AssembliesAndNamespaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jcab\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

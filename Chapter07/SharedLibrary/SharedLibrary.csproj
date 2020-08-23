@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>Packt.CS8.SharedLibrary</PackageId>
+    <PackageVersion>1.0.0.0</PackageVersion>
+    <Authors>John B Cable</Authors>
+    <PackageLicenseExpression>
+      MS-PL 
+    </PackageLicenseExpression>
+    <PackageProjectUrl>
+      http://github.com/markjprice/cs8dotnetcore3
+    </PackageProjectUrl>
+    <PackageIcon>packt-cs8-sharedlibrary.png</PackageIcon>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <PackageReleaseNotes>Example shared library packaged for NuGet</PackageReleaseNotes>
+    <Description>Three extension methods to validate  atring input</Description>
+    <Copyright>Copyright 2020 JBC Inc</Copyright>
+    <PackageTags>string extension packt cs8</PackageTags>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="packt-cs8-sharedlibrary.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+  
+</Project>

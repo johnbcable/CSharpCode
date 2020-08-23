@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "ATPuKrgsGbSKetbObu2C2uPGTT1fQVLGy44qrPp+zgcDSVhlUmauKwyCaJDl1TomDR4/uyB4FEjrkJAm8ISFPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jcab\\CSharpCode\\Chapter07\\DotNetCoreEverywhere\\DotNetCoreEverywhere.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jcab\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\jcab\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\3.1.7\\microsoft.aspnetcore.app.runtime.linux-x64.3.1.7.nupkg.sha512",
+    "C:\\Users\\jcab\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.osx-x64\\3.1.7\\microsoft.aspnetcore.app.runtime.osx-x64.3.1.7.nupkg.sha512",
+    "C:\\Users\\jcab\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.7\\microsoft.aspnetcore.app.runtime.win-x64.3.1.7.nupkg.sha512",
+    "C:\\Users\\jcab\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\3.1.7\\microsoft.netcore.app.host.linux-x64.3.1.7.nupkg.sha512",
+    "C:\\Users\\jcab\\.nuget\\packages\\microsoft.netcore.app.host.osx-x64\\3.1.7\\microsoft.netcore.app.host.osx-x64.3.1.7.nupkg.sha512",
+    "C:\\Users\\jcab\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\3.1.7\\microsoft.netcore.app.runtime.linux-x64.3.1.7.nupkg.sha512",
+    "C:\\Users\\jcab\\.nuget\\packages\\microsoft.netcore.app.runtime.osx-x64\\3.1.7\\microsoft.netcore.app.runtime.osx-x64.3.1.7.nupkg.sha512",
+    "C:\\Users\\jcab\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.7\\microsoft.netcore.app.runtime.win-x64.3.1.7.nupkg.sha512",
+    "C:\\Users\\jcab\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.7\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.7.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+C:\Users\jcab\CSharpCode\Chapter07\SharedLibrary\bin\Release\netstandard2.0\SharedLibrary.deps.json
+C:\Users\jcab\CSharpCode\Chapter07\SharedLibrary\bin\Release\netstandard2.0\SharedLibrary.dll
+C:\Users\jcab\CSharpCode\Chapter07\SharedLibrary\bin\Release\netstandard2.0\SharedLibrary.pdb
+C:\Users\jcab\CSharpCode\Chapter07\SharedLibrary\obj\Release\netstandard2.0\SharedLibrary.csprojAssemblyReference.cache
+C:\Users\jcab\CSharpCode\Chapter07\SharedLibrary\obj\Release\netstandard2.0\SharedLibrary.AssemblyInfoInputs.cache
+C:\Users\jcab\CSharpCode\Chapter07\SharedLibrary\obj\Release\netstandard2.0\SharedLibrary.AssemblyInfo.cs
+C:\Users\jcab\CSharpCode\Chapter07\SharedLibrary\obj\Release\netstandard2.0\SharedLibrary.csproj.CoreCompileInputs.cache
+C:\Users\jcab\CSharpCode\Chapter07\SharedLibrary\obj\Release\netstandard2.0\SharedLibrary.dll
+C:\Users\jcab\CSharpCode\Chapter07\SharedLibrary\obj\Release\netstandard2.0\SharedLibrary.pdb

@@ -1,0 +1,4 @@
+C:\Users\jcab\CSharpCode\Chapter07\DotNetCoreEverywhere\obj\Debug\netcoreapp3.1\DotNetCoreEverywhere.csprojAssemblyReference.cache
+C:\Users\jcab\CSharpCode\Chapter07\DotNetCoreEverywhere\obj\Debug\netcoreapp3.1\DotNetCoreEverywhere.AssemblyInfoInputs.cache
+C:\Users\jcab\CSharpCode\Chapter07\DotNetCoreEverywhere\obj\Debug\netcoreapp3.1\DotNetCoreEverywhere.AssemblyInfo.cs
+C:\Users\jcab\CSharpCode\Chapter07\DotNetCoreEverywhere\obj\Debug\netcoreapp3.1\DotNetCoreEverywhere.csproj.CoreCompileInputs.cache
