@@ -42,9 +42,17 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "Packt.CS8.SharedLibrary.JBC": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "dialectsoftware.collections.matrix": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
             "newtonsoft.json": {
               "target": "Package",
-              "version": "[*, )"
+              "version": "[12.0.3, )"
             }
           },
           "imports": [

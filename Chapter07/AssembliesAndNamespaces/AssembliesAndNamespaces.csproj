@@ -7,6 +7,8 @@
 
   <ItemGroup>
     <PackageReference Include="newtonsoft.json" Version="12.0.3" />
+    <PackageReference Include="Packt.CS8.SharedLibrary.JBC" Version="1.0.1" />
+    <PackageReference Include="dialectsoftware.collections.matrix" Version="1.0.0" />
   </ItemGroup>
 
 </Project>

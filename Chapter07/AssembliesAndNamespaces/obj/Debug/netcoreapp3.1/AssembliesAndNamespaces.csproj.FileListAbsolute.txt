@@ -11,3 +11,7 @@ C:\Users\jcab\CSharpCode\Chapter07\AssembliesAndNamespaces\obj\Debug\netcoreapp3
 C:\Users\jcab\CSharpCode\Chapter07\AssembliesAndNamespaces\obj\Debug\netcoreapp3.1\AssembliesAndNamespaces.dll
 C:\Users\jcab\CSharpCode\Chapter07\AssembliesAndNamespaces\obj\Debug\netcoreapp3.1\AssembliesAndNamespaces.pdb
 C:\Users\jcab\CSharpCode\Chapter07\AssembliesAndNamespaces\obj\Debug\netcoreapp3.1\AssembliesAndNamespaces.genruntimeconfig.cache
+C:\Users\jcab\CSharpCode\Chapter07\AssembliesAndNamespaces\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\jcab\CSharpCode\Chapter07\AssembliesAndNamespaces\bin\Debug\netcoreapp3.1\SharedLibrary.dll
+C:\Users\jcab\CSharpCode\Chapter07\AssembliesAndNamespaces\obj\Debug\netcoreapp3.1\AssembliesAndNamespaces.csproj.CopyComplete
+C:\Users\jcab\CSharpCode\Chapter07\AssembliesAndNamespaces\bin\Debug\netcoreapp3.1\DialectSoftware.Collections.Matrix.dll

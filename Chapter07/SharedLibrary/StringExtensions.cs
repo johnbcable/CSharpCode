@@ -8,7 +8,7 @@ namespace Packt.Shared
         public static bool IsValidXmlTag(this string input) 
         {
             return Regex.IsMatch(input,
-            @"^<([a-z]+)([^<]+)*(?:>(.#*)<\/\1>|\s+\/>)$");
+            @"^<([a-z]+)([^<]+)*(?:>(.*)<\/\1>|\s+\/>)$");
         }
         public static bool IsValidPassword(this string input) 
         {
@@ -19,7 +19,7 @@ namespace Packt.Shared
         {
             // three or six valid Hex number characters characters
             return Regex.IsMatch(input, 
-                "^#?([a-fA-F0-9_-]{3}|[a-fA-F0-9_-]{6}$");
+                "^#?([a-fA-F0-9]{3}|[a-fA-F0-9]{6}$");
         }
     }
 }

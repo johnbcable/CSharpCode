@@ -5,10 +5,10 @@
   },
   "projects": {
     "C:\\Users\\jcab\\CSharpCode\\Chapter07\\SharedLibrary\\SharedLibrary.csproj": {
-      "version": "1.0.0",
+      "version": "1.0.2",
       "restore": {
         "projectUniqueName": "C:\\Users\\jcab\\CSharpCode\\Chapter07\\SharedLibrary\\SharedLibrary.csproj",
-        "projectName": "Packt.CS8.SharedLibrary",
+        "projectName": "Packt.CS8.SharedLibrary.JBC",
         "projectPath": "C:\\Users\\jcab\\CSharpCode\\Chapter07\\SharedLibrary\\SharedLibrary.csproj",
         "packagesPath": "C:\\Users\\jcab\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\jcab\\CSharpCode\\Chapter07\\SharedLibrary\\obj\\",

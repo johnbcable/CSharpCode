@@ -8,20 +8,11 @@
     ".NETCoreApp,Version=v3.1": {
       "AssembliesAndNamespaces/1.0.0": {
         "dependencies": {
-          "Packt.CS8.SharedLibrary.JBC": "1.0.1",
-          "DialectSoftware.Collections.Matrix": "1.0.0",
+          "Packt.CS8.SharedLibrary.JBC": "1.0.0",
           "Newtonsoft.Json": "12.0.3"
         },
         "runtime": {
           "AssembliesAndNamespaces.dll": {}
-        }
-      },
-      "DialectSoftware.Collections.Matrix/1.0.0": {
-        "runtime": {
-          "lib/DialectSoftware.Collections.Matrix.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
         }
       },
       "Newtonsoft.Json/12.0.3": {
@@ -32,7 +23,7 @@
           }
         }
       },
-      "Packt.CS8.SharedLibrary.JBC/1.0.1": {
+      "Packt.CS8.SharedLibrary.JBC/1.0.0": {
         "runtime": {
           "lib/netstandard2.0/SharedLibrary.dll": {
             "assemblyVersion": "1.0.0.0",
@@ -48,13 +39,6 @@
       "serviceable": false,
       "sha512": ""
     },
-    "DialectSoftware.Collections.Matrix/1.0.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-O0//+wnBGhEn+dMj60Cfg0DhlR/IrCFvCI4Bqau5ygQVOnxApV5O2NqRQtCYNUVERW+VrNmGiYZHsU/zrV8eSQ==",
-      "path": "dialectsoftware.collections.matrix/1.0.0",
-      "hashPath": "dialectsoftware.collections.matrix.1.0.0.nupkg.sha512"
-    },
     "Newtonsoft.Json/12.0.3": {
       "type": "package",
       "serviceable": true,
@@ -62,12 +46,12 @@
       "path": "newtonsoft.json/12.0.3",
       "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
     },
-    "Packt.CS8.SharedLibrary.JBC/1.0.1": {
+    "Packt.CS8.SharedLibrary.JBC/1.0.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-35fccmETDTYBiNrGnwuNYJL7cquZh3X3E8ZHNFHgVKzo45tBr1EwJBg7maTiGd7yjnkQPMY+ki9o4YXMY/yk2A==",
-      "path": "packt.cs8.sharedlibrary.jbc/1.0.1",
-      "hashPath": "packt.cs8.sharedlibrary.jbc.1.0.1.nupkg.sha512"
+      "sha512": "sha512-ZbwlQ3s9eT16PyIYqyuLot4rfZU09VJ3lZeUTmvynCcFoXvriBRwHmHWgWVqDFhUk4c6Kh1kexpftmoN3UOnig==",
+      "path": "packt.cs8.sharedlibrary.jbc/1.0.0",
+      "hashPath": "packt.cs8.sharedlibrary.jbc.1.0.0.nupkg.sha512"
     }
   }
 }

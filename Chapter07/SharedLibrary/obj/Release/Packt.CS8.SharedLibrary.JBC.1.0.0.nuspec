@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Packt.CS8.SharedLibrary.JBC</id>
+    <version>1.0.0</version>
+    <authors>John B Cable</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="expression">MS-PL</license>
+    <licenseUrl>https://licenses.nuget.org/MS-PL</licenseUrl>
+    <icon>packt-cs8-sharedlibrary.png</icon>
+    <projectUrl>http://github.com/markjprice/cs8dotnetcore3</projectUrl>
+    <description>Three extension methods to validate  atring input</description>
+    <releaseNotes>Example shared library packaged for NuGet</releaseNotes>
+    <copyright>Copyright 2020 JBC Inc</copyright>
+    <tags>string extension packt cs8</tags>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\jcab\CSharpCode\Chapter07\SharedLibrary\bin\Release\netstandard2.0\SharedLibrary.dll" target="lib\netstandard2.0\SharedLibrary.dll" />
+    <file src="C:\Users\jcab\CSharpCode\Chapter07\SharedLibrary\packt-cs8-sharedlibrary.png" target="packt-cs8-sharedlibrary.png" />
+  </files>
+</package>
