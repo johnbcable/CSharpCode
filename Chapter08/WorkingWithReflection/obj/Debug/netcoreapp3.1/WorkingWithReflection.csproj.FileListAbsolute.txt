@@ -1,0 +1,13 @@
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithReflection\bin\Debug\netcoreapp3.1\WorkingWithReflection.exe
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithReflection\bin\Debug\netcoreapp3.1\WorkingWithReflection.deps.json
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithReflection\bin\Debug\netcoreapp3.1\WorkingWithReflection.runtimeconfig.json
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithReflection\bin\Debug\netcoreapp3.1\WorkingWithReflection.runtimeconfig.dev.json
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithReflection\bin\Debug\netcoreapp3.1\WorkingWithReflection.dll
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithReflection\bin\Debug\netcoreapp3.1\WorkingWithReflection.pdb
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithReflection\obj\Debug\netcoreapp3.1\WorkingWithReflection.csprojAssemblyReference.cache
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithReflection\obj\Debug\netcoreapp3.1\WorkingWithReflection.AssemblyInfoInputs.cache
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithReflection\obj\Debug\netcoreapp3.1\WorkingWithReflection.AssemblyInfo.cs
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithReflection\obj\Debug\netcoreapp3.1\WorkingWithReflection.csproj.CoreCompileInputs.cache
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithReflection\obj\Debug\netcoreapp3.1\WorkingWithReflection.dll
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithReflection\obj\Debug\netcoreapp3.1\WorkingWithReflection.pdb
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithReflection\obj\Debug\netcoreapp3.1\WorkingWithReflection.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithLists\bin\Debug\netcoreapp3.1\WorkingWithLists.exe
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithLists\bin\Debug\netcoreapp3.1\WorkingWithLists.deps.json
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithLists\bin\Debug\netcoreapp3.1\WorkingWithLists.runtimeconfig.json
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithLists\bin\Debug\netcoreapp3.1\WorkingWithLists.runtimeconfig.dev.json
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithLists\bin\Debug\netcoreapp3.1\WorkingWithLists.dll
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithLists\bin\Debug\netcoreapp3.1\WorkingWithLists.pdb
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithLists\obj\Debug\netcoreapp3.1\WorkingWithLists.csprojAssemblyReference.cache
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithLists\obj\Debug\netcoreapp3.1\WorkingWithLists.AssemblyInfoInputs.cache
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithLists\obj\Debug\netcoreapp3.1\WorkingWithLists.AssemblyInfo.cs
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithLists\obj\Debug\netcoreapp3.1\WorkingWithLists.csproj.CoreCompileInputs.cache
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithLists\obj\Debug\netcoreapp3.1\WorkingWithLists.dll
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithLists\obj\Debug\netcoreapp3.1\WorkingWithLists.pdb
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithLists\obj\Debug\netcoreapp3.1\WorkingWithLists.genruntimeconfig.cache

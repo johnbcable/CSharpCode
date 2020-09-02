@@ -1,0 +1,13 @@
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithNumbers\bin\Debug\netcoreapp3.1\WorkingWithNumbers.exe
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithNumbers\bin\Debug\netcoreapp3.1\WorkingWithNumbers.deps.json
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithNumbers\bin\Debug\netcoreapp3.1\WorkingWithNumbers.runtimeconfig.json
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithNumbers\bin\Debug\netcoreapp3.1\WorkingWithNumbers.runtimeconfig.dev.json
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithNumbers\bin\Debug\netcoreapp3.1\WorkingWithNumbers.dll
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithNumbers\bin\Debug\netcoreapp3.1\WorkingWithNumbers.pdb
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithNumbers\obj\Debug\netcoreapp3.1\WorkingWithNumbers.csprojAssemblyReference.cache
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithNumbers\obj\Debug\netcoreapp3.1\WorkingWithNumbers.AssemblyInfoInputs.cache
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithNumbers\obj\Debug\netcoreapp3.1\WorkingWithNumbers.AssemblyInfo.cs
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithNumbers\obj\Debug\netcoreapp3.1\WorkingWithNumbers.csproj.CoreCompileInputs.cache
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithNumbers\obj\Debug\netcoreapp3.1\WorkingWithNumbers.dll
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithNumbers\obj\Debug\netcoreapp3.1\WorkingWithNumbers.pdb
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithNumbers\obj\Debug\netcoreapp3.1\WorkingWithNumbers.genruntimeconfig.cache

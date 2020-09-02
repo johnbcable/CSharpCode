@@ -1,0 +1,13 @@
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithText\bin\Debug\netcoreapp3.1\WorkingWithText.exe
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithText\bin\Debug\netcoreapp3.1\WorkingWithText.deps.json
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithText\bin\Debug\netcoreapp3.1\WorkingWithText.runtimeconfig.json
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithText\bin\Debug\netcoreapp3.1\WorkingWithText.runtimeconfig.dev.json
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithText\bin\Debug\netcoreapp3.1\WorkingWithText.dll
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithText\bin\Debug\netcoreapp3.1\WorkingWithText.pdb
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithText\obj\Debug\netcoreapp3.1\WorkingWithText.csprojAssemblyReference.cache
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithText\obj\Debug\netcoreapp3.1\WorkingWithText.AssemblyInfoInputs.cache
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithText\obj\Debug\netcoreapp3.1\WorkingWithText.AssemblyInfo.cs
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithText\obj\Debug\netcoreapp3.1\WorkingWithText.csproj.CoreCompileInputs.cache
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithText\obj\Debug\netcoreapp3.1\WorkingWithText.dll
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithText\obj\Debug\netcoreapp3.1\WorkingWithText.pdb
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithText\obj\Debug\netcoreapp3.1\WorkingWithText.genruntimeconfig.cache

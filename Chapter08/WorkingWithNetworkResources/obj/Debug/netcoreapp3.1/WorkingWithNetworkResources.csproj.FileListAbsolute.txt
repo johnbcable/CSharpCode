@@ -1,0 +1,13 @@
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithNetworkResources\bin\Debug\netcoreapp3.1\WorkingWithNetworkResources.exe
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithNetworkResources\bin\Debug\netcoreapp3.1\WorkingWithNetworkResources.deps.json
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithNetworkResources\bin\Debug\netcoreapp3.1\WorkingWithNetworkResources.runtimeconfig.json
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithNetworkResources\bin\Debug\netcoreapp3.1\WorkingWithNetworkResources.runtimeconfig.dev.json
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithNetworkResources\bin\Debug\netcoreapp3.1\WorkingWithNetworkResources.dll
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithNetworkResources\bin\Debug\netcoreapp3.1\WorkingWithNetworkResources.pdb
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithNetworkResources\obj\Debug\netcoreapp3.1\WorkingWithNetworkResources.csprojAssemblyReference.cache
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithNetworkResources\obj\Debug\netcoreapp3.1\WorkingWithNetworkResources.AssemblyInfoInputs.cache
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithNetworkResources\obj\Debug\netcoreapp3.1\WorkingWithNetworkResources.AssemblyInfo.cs
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithNetworkResources\obj\Debug\netcoreapp3.1\WorkingWithNetworkResources.csproj.CoreCompileInputs.cache
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithNetworkResources\obj\Debug\netcoreapp3.1\WorkingWithNetworkResources.dll
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithNetworkResources\obj\Debug\netcoreapp3.1\WorkingWithNetworkResources.pdb
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithNetworkResources\obj\Debug\netcoreapp3.1\WorkingWithNetworkResources.genruntimeconfig.cache

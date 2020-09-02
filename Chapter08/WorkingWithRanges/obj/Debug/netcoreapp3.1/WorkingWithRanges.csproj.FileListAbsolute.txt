@@ -1,0 +1,13 @@
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithRanges\bin\Debug\netcoreapp3.1\WorkingWithRanges.exe
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithRanges\bin\Debug\netcoreapp3.1\WorkingWithRanges.deps.json
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithRanges\bin\Debug\netcoreapp3.1\WorkingWithRanges.runtimeconfig.json
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithRanges\bin\Debug\netcoreapp3.1\WorkingWithRanges.runtimeconfig.dev.json
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithRanges\bin\Debug\netcoreapp3.1\WorkingWithRanges.dll
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithRanges\bin\Debug\netcoreapp3.1\WorkingWithRanges.pdb
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithRanges\obj\Debug\netcoreapp3.1\WorkingWithRanges.csprojAssemblyReference.cache
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithRanges\obj\Debug\netcoreapp3.1\WorkingWithRanges.AssemblyInfoInputs.cache
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithRanges\obj\Debug\netcoreapp3.1\WorkingWithRanges.AssemblyInfo.cs
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithRanges\obj\Debug\netcoreapp3.1\WorkingWithRanges.csproj.CoreCompileInputs.cache
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithRanges\obj\Debug\netcoreapp3.1\WorkingWithRanges.dll
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithRanges\obj\Debug\netcoreapp3.1\WorkingWithRanges.pdb
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithRanges\obj\Debug\netcoreapp3.1\WorkingWithRanges.genruntimeconfig.cache

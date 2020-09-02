@@ -1,0 +1,13 @@
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithDictionaries\bin\Debug\netcoreapp3.1\WorkingWithDictionaries.exe
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithDictionaries\bin\Debug\netcoreapp3.1\WorkingWithDictionaries.deps.json
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithDictionaries\bin\Debug\netcoreapp3.1\WorkingWithDictionaries.runtimeconfig.json
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithDictionaries\bin\Debug\netcoreapp3.1\WorkingWithDictionaries.runtimeconfig.dev.json
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithDictionaries\bin\Debug\netcoreapp3.1\WorkingWithDictionaries.dll
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithDictionaries\bin\Debug\netcoreapp3.1\WorkingWithDictionaries.pdb
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithDictionaries\obj\Debug\netcoreapp3.1\WorkingWithDictionaries.csprojAssemblyReference.cache
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithDictionaries\obj\Debug\netcoreapp3.1\WorkingWithDictionaries.AssemblyInfoInputs.cache
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithDictionaries\obj\Debug\netcoreapp3.1\WorkingWithDictionaries.AssemblyInfo.cs
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithDictionaries\obj\Debug\netcoreapp3.1\WorkingWithDictionaries.csproj.CoreCompileInputs.cache
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithDictionaries\obj\Debug\netcoreapp3.1\WorkingWithDictionaries.dll
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithDictionaries\obj\Debug\netcoreapp3.1\WorkingWithDictionaries.pdb
+C:\Users\jcab\CSharpCode\Chapter08\WorkingWithDictionaries\obj\Debug\netcoreapp3.1\WorkingWithDictionaries.genruntimeconfig.cache
