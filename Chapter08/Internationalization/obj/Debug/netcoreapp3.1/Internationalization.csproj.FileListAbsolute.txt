@@ -1,0 +1,13 @@
+C:\Users\jcab\CSharpCode\Chapter08\Internationalization\bin\Debug\netcoreapp3.1\Internationalization.exe
+C:\Users\jcab\CSharpCode\Chapter08\Internationalization\bin\Debug\netcoreapp3.1\Internationalization.deps.json
+C:\Users\jcab\CSharpCode\Chapter08\Internationalization\bin\Debug\netcoreapp3.1\Internationalization.runtimeconfig.json
+C:\Users\jcab\CSharpCode\Chapter08\Internationalization\bin\Debug\netcoreapp3.1\Internationalization.runtimeconfig.dev.json
+C:\Users\jcab\CSharpCode\Chapter08\Internationalization\bin\Debug\netcoreapp3.1\Internationalization.dll
+C:\Users\jcab\CSharpCode\Chapter08\Internationalization\bin\Debug\netcoreapp3.1\Internationalization.pdb
+C:\Users\jcab\CSharpCode\Chapter08\Internationalization\obj\Debug\netcoreapp3.1\Internationalization.csprojAssemblyReference.cache
+C:\Users\jcab\CSharpCode\Chapter08\Internationalization\obj\Debug\netcoreapp3.1\Internationalization.AssemblyInfoInputs.cache
+C:\Users\jcab\CSharpCode\Chapter08\Internationalization\obj\Debug\netcoreapp3.1\Internationalization.AssemblyInfo.cs
+C:\Users\jcab\CSharpCode\Chapter08\Internationalization\obj\Debug\netcoreapp3.1\Internationalization.csproj.CoreCompileInputs.cache
+C:\Users\jcab\CSharpCode\Chapter08\Internationalization\obj\Debug\netcoreapp3.1\Internationalization.dll
+C:\Users\jcab\CSharpCode\Chapter08\Internationalization\obj\Debug\netcoreapp3.1\Internationalization.pdb
+C:\Users\jcab\CSharpCode\Chapter08\Internationalization\obj\Debug\netcoreapp3.1\Internationalization.genruntimeconfig.cache
