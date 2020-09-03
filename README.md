@@ -77,3 +77,11 @@ This chapter is about some common .NET Standard types that are included with .NE
 - Working with network resources
 - Working with types and attributes
 - Internationalizing your code
+
+### Chapter 9 - Working with Files, Streams and Serialization
+This chapter is about reading and writing to files and streams, text encoding and serialization. This chapter covers the following topics:
+- Managing the file system
+- Reading and writing with streams
+- Encoding and decoding text
+- Serializing object graphs
+
