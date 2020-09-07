@@ -85,3 +85,14 @@ This chapter is about reading and writing to files and streams, text encoding an
 - Encoding and decoding text
 - Serializing object graphs
 
+### Chapter 10 - Protecting Your Data and Applications
+This chapter is about protecting your data from being viewed by malicious users using encryption, and from being manipulated or correupted using hashing and signing. This chapter covers the following topics:
+- Understatanding the vocabulary of protection
+- Encrypting and decrypting data
+- Hashing data
+- Signing data
+- Generating random numbers
+- What's new in cryptography?
+- Authenticating and authorizing users
+
+

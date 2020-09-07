@@ -1,0 +1,13 @@
+C:\Users\jcab\CSharpCode\Chapter09\WorkingWithStreams\bin\Debug\netcoreapp3.1\WorkingWithStreams.exe
+C:\Users\jcab\CSharpCode\Chapter09\WorkingWithStreams\bin\Debug\netcoreapp3.1\WorkingWithStreams.deps.json
+C:\Users\jcab\CSharpCode\Chapter09\WorkingWithStreams\bin\Debug\netcoreapp3.1\WorkingWithStreams.runtimeconfig.json
+C:\Users\jcab\CSharpCode\Chapter09\WorkingWithStreams\bin\Debug\netcoreapp3.1\WorkingWithStreams.runtimeconfig.dev.json
+C:\Users\jcab\CSharpCode\Chapter09\WorkingWithStreams\bin\Debug\netcoreapp3.1\WorkingWithStreams.dll
+C:\Users\jcab\CSharpCode\Chapter09\WorkingWithStreams\bin\Debug\netcoreapp3.1\WorkingWithStreams.pdb
+C:\Users\jcab\CSharpCode\Chapter09\WorkingWithStreams\obj\Debug\netcoreapp3.1\WorkingWithStreams.csprojAssemblyReference.cache
+C:\Users\jcab\CSharpCode\Chapter09\WorkingWithStreams\obj\Debug\netcoreapp3.1\WorkingWithStreams.AssemblyInfoInputs.cache
+C:\Users\jcab\CSharpCode\Chapter09\WorkingWithStreams\obj\Debug\netcoreapp3.1\WorkingWithStreams.AssemblyInfo.cs
+C:\Users\jcab\CSharpCode\Chapter09\WorkingWithStreams\obj\Debug\netcoreapp3.1\WorkingWithStreams.csproj.CoreCompileInputs.cache
+C:\Users\jcab\CSharpCode\Chapter09\WorkingWithStreams\obj\Debug\netcoreapp3.1\WorkingWithStreams.dll
+C:\Users\jcab\CSharpCode\Chapter09\WorkingWithStreams\obj\Debug\netcoreapp3.1\WorkingWithStreams.pdb
+C:\Users\jcab\CSharpCode\Chapter09\WorkingWithStreams\obj\Debug\netcoreapp3.1\WorkingWithStreams.genruntimeconfig.cache

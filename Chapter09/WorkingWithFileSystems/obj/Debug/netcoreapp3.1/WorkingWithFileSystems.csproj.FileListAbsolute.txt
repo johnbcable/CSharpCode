@@ -1,0 +1,13 @@
+C:\Users\jcab\CSharpCode\Chapter09\WorkingWithFileSystems\bin\Debug\netcoreapp3.1\WorkingWithFileSystems.exe
+C:\Users\jcab\CSharpCode\Chapter09\WorkingWithFileSystems\bin\Debug\netcoreapp3.1\WorkingWithFileSystems.deps.json
+C:\Users\jcab\CSharpCode\Chapter09\WorkingWithFileSystems\bin\Debug\netcoreapp3.1\WorkingWithFileSystems.runtimeconfig.json
+C:\Users\jcab\CSharpCode\Chapter09\WorkingWithFileSystems\bin\Debug\netcoreapp3.1\WorkingWithFileSystems.runtimeconfig.dev.json
+C:\Users\jcab\CSharpCode\Chapter09\WorkingWithFileSystems\bin\Debug\netcoreapp3.1\WorkingWithFileSystems.dll
+C:\Users\jcab\CSharpCode\Chapter09\WorkingWithFileSystems\bin\Debug\netcoreapp3.1\WorkingWithFileSystems.pdb
+C:\Users\jcab\CSharpCode\Chapter09\WorkingWithFileSystems\obj\Debug\netcoreapp3.1\WorkingWithFileSystems.csprojAssemblyReference.cache
+C:\Users\jcab\CSharpCode\Chapter09\WorkingWithFileSystems\obj\Debug\netcoreapp3.1\WorkingWithFileSystems.AssemblyInfoInputs.cache
+C:\Users\jcab\CSharpCode\Chapter09\WorkingWithFileSystems\obj\Debug\netcoreapp3.1\WorkingWithFileSystems.AssemblyInfo.cs
+C:\Users\jcab\CSharpCode\Chapter09\WorkingWithFileSystems\obj\Debug\netcoreapp3.1\WorkingWithFileSystems.csproj.CoreCompileInputs.cache
+C:\Users\jcab\CSharpCode\Chapter09\WorkingWithFileSystems\obj\Debug\netcoreapp3.1\WorkingWithFileSystems.dll
+C:\Users\jcab\CSharpCode\Chapter09\WorkingWithFileSystems\obj\Debug\netcoreapp3.1\WorkingWithFileSystems.pdb
+C:\Users\jcab\CSharpCode\Chapter09\WorkingWithFileSystems\obj\Debug\netcoreapp3.1\WorkingWithFileSystems.genruntimeconfig.cache

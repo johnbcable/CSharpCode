@@ -1,0 +1,15 @@
+C:\Users\jcab\CSharpCode\Chapter09\WorkingWithSerialization\obj\Debug\netcoreapp3.1\WorkingWithSerialization.csprojAssemblyReference.cache
+C:\Users\jcab\CSharpCode\Chapter09\WorkingWithSerialization\obj\Debug\netcoreapp3.1\WorkingWithSerialization.AssemblyInfoInputs.cache
+C:\Users\jcab\CSharpCode\Chapter09\WorkingWithSerialization\obj\Debug\netcoreapp3.1\WorkingWithSerialization.AssemblyInfo.cs
+C:\Users\jcab\CSharpCode\Chapter09\WorkingWithSerialization\obj\Debug\netcoreapp3.1\WorkingWithSerialization.csproj.CoreCompileInputs.cache
+C:\Users\jcab\CSharpCode\Chapter09\WorkingWithSerialization\bin\Debug\netcoreapp3.1\WorkingWithSerialization.exe
+C:\Users\jcab\CSharpCode\Chapter09\WorkingWithSerialization\bin\Debug\netcoreapp3.1\WorkingWithSerialization.deps.json
+C:\Users\jcab\CSharpCode\Chapter09\WorkingWithSerialization\bin\Debug\netcoreapp3.1\WorkingWithSerialization.runtimeconfig.json
+C:\Users\jcab\CSharpCode\Chapter09\WorkingWithSerialization\bin\Debug\netcoreapp3.1\WorkingWithSerialization.runtimeconfig.dev.json
+C:\Users\jcab\CSharpCode\Chapter09\WorkingWithSerialization\bin\Debug\netcoreapp3.1\WorkingWithSerialization.dll
+C:\Users\jcab\CSharpCode\Chapter09\WorkingWithSerialization\bin\Debug\netcoreapp3.1\WorkingWithSerialization.pdb
+C:\Users\jcab\CSharpCode\Chapter09\WorkingWithSerialization\obj\Debug\netcoreapp3.1\WorkingWithSerialization.dll
+C:\Users\jcab\CSharpCode\Chapter09\WorkingWithSerialization\obj\Debug\netcoreapp3.1\WorkingWithSerialization.pdb
+C:\Users\jcab\CSharpCode\Chapter09\WorkingWithSerialization\obj\Debug\netcoreapp3.1\WorkingWithSerialization.genruntimeconfig.cache
+C:\Users\jcab\CSharpCode\Chapter09\WorkingWithSerialization\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\jcab\CSharpCode\Chapter09\WorkingWithSerialization\obj\Debug\netcoreapp3.1\WorkingWithSerialization.csproj.CopyComplete
