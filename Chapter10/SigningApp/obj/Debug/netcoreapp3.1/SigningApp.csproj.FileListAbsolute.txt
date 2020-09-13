@@ -1,0 +1,16 @@
+C:\Users\jcab\CSharpCode\Chapter10\SigningApp\bin\Debug\netcoreapp3.1\SigningApp.exe
+C:\Users\jcab\CSharpCode\Chapter10\SigningApp\bin\Debug\netcoreapp3.1\SigningApp.deps.json
+C:\Users\jcab\CSharpCode\Chapter10\SigningApp\bin\Debug\netcoreapp3.1\SigningApp.runtimeconfig.json
+C:\Users\jcab\CSharpCode\Chapter10\SigningApp\bin\Debug\netcoreapp3.1\SigningApp.runtimeconfig.dev.json
+C:\Users\jcab\CSharpCode\Chapter10\SigningApp\bin\Debug\netcoreapp3.1\SigningApp.dll
+C:\Users\jcab\CSharpCode\Chapter10\SigningApp\bin\Debug\netcoreapp3.1\SigningApp.pdb
+C:\Users\jcab\CSharpCode\Chapter10\SigningApp\bin\Debug\netcoreapp3.1\CryptographyLib.dll
+C:\Users\jcab\CSharpCode\Chapter10\SigningApp\bin\Debug\netcoreapp3.1\CryptographyLib.pdb
+C:\Users\jcab\CSharpCode\Chapter10\SigningApp\obj\Debug\netcoreapp3.1\SigningApp.csprojAssemblyReference.cache
+C:\Users\jcab\CSharpCode\Chapter10\SigningApp\obj\Debug\netcoreapp3.1\SigningApp.AssemblyInfoInputs.cache
+C:\Users\jcab\CSharpCode\Chapter10\SigningApp\obj\Debug\netcoreapp3.1\SigningApp.AssemblyInfo.cs
+C:\Users\jcab\CSharpCode\Chapter10\SigningApp\obj\Debug\netcoreapp3.1\SigningApp.csproj.CoreCompileInputs.cache
+C:\Users\jcab\CSharpCode\Chapter10\SigningApp\obj\Debug\netcoreapp3.1\SigningApp.csproj.CopyComplete
+C:\Users\jcab\CSharpCode\Chapter10\SigningApp\obj\Debug\netcoreapp3.1\SigningApp.dll
+C:\Users\jcab\CSharpCode\Chapter10\SigningApp\obj\Debug\netcoreapp3.1\SigningApp.pdb
+C:\Users\jcab\CSharpCode\Chapter10\SigningApp\obj\Debug\netcoreapp3.1\SigningApp.genruntimeconfig.cache

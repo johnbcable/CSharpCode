@@ -1,0 +1,16 @@
+C:\Users\jcab\CSharpCode\Chapter10\EncryptionApp\bin\Debug\netcoreapp3.1\EncryptionApp.exe
+C:\Users\jcab\CSharpCode\Chapter10\EncryptionApp\bin\Debug\netcoreapp3.1\EncryptionApp.deps.json
+C:\Users\jcab\CSharpCode\Chapter10\EncryptionApp\bin\Debug\netcoreapp3.1\EncryptionApp.runtimeconfig.json
+C:\Users\jcab\CSharpCode\Chapter10\EncryptionApp\bin\Debug\netcoreapp3.1\EncryptionApp.runtimeconfig.dev.json
+C:\Users\jcab\CSharpCode\Chapter10\EncryptionApp\bin\Debug\netcoreapp3.1\EncryptionApp.dll
+C:\Users\jcab\CSharpCode\Chapter10\EncryptionApp\bin\Debug\netcoreapp3.1\EncryptionApp.pdb
+C:\Users\jcab\CSharpCode\Chapter10\EncryptionApp\bin\Debug\netcoreapp3.1\CryptographyLib.dll
+C:\Users\jcab\CSharpCode\Chapter10\EncryptionApp\bin\Debug\netcoreapp3.1\CryptographyLib.pdb
+C:\Users\jcab\CSharpCode\Chapter10\EncryptionApp\obj\Debug\netcoreapp3.1\EncryptionApp.csprojAssemblyReference.cache
+C:\Users\jcab\CSharpCode\Chapter10\EncryptionApp\obj\Debug\netcoreapp3.1\EncryptionApp.AssemblyInfoInputs.cache
+C:\Users\jcab\CSharpCode\Chapter10\EncryptionApp\obj\Debug\netcoreapp3.1\EncryptionApp.AssemblyInfo.cs
+C:\Users\jcab\CSharpCode\Chapter10\EncryptionApp\obj\Debug\netcoreapp3.1\EncryptionApp.csproj.CoreCompileInputs.cache
+C:\Users\jcab\CSharpCode\Chapter10\EncryptionApp\obj\Debug\netcoreapp3.1\EncryptionApp.csproj.CopyComplete
+C:\Users\jcab\CSharpCode\Chapter10\EncryptionApp\obj\Debug\netcoreapp3.1\EncryptionApp.dll
+C:\Users\jcab\CSharpCode\Chapter10\EncryptionApp\obj\Debug\netcoreapp3.1\EncryptionApp.pdb
+C:\Users\jcab\CSharpCode\Chapter10\EncryptionApp\obj\Debug\netcoreapp3.1\EncryptionApp.genruntimeconfig.cache
