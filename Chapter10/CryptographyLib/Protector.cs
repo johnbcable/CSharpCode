@@ -58,7 +58,7 @@ namespace Packt.Shared
         }
 
         private static Dictionary<string, User> Users = new Dictionary<string, User>();
-        public static User Register(string username, string password)
+        public static User Register(string username, string password, string[] roles = null)
         {
             // generate a random salt
             var rng = RandomNumberGenerator.Create();
@@ -73,7 +73,8 @@ namespace Packt.Shared
             {
                 Name = username,
                 Salt = saltText,
-                SaltedHashedPassword = saltedhashedPassword
+                SaltedHashedPassword = saltedhashedPassword,
+                Roles = roles
             };
             Users.Add(user.Name, user);
             
@@ -172,6 +173,28 @@ namespace Packt.Shared
             rsa.FromXmlStringExt(PublicKey);     
 
             return rsa.VerifyHash(hashedData, signatureBytes, HashAlgorithmName.SHA256, RSASignaturePadding.Pkcs1);
+        }
+
+        // random number generation
+        public static byte[] GetRandomKeyOrIV(int size)
+        {
+            var r = RandomNumberGenerator.Create();
+            var data = new byte[size];
+            r.GetNonZeroBytes(data);
+            // data is an array now filled with 
+            // cryptographically strong random bytes
+            return data;
+        }
+
+        // Authentication etc
+        public static void Login(string username, string password)
+        {
+            if (CheckPassword(username, password))
+            {
+                var identity = new GenericIdentity(username, "PacktAuth");
+                var principal = new GenericPrincipal(identity, Users[username].Roles);
+                System.Threading.Thread.CurrentPrincipal = principal;
+            }
         }
     }
 }

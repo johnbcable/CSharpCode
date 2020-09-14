@@ -1,0 +1,16 @@
+C:\Users\jcab\CSharpCode\Chapter10\RandomizingApp\obj\Debug\netcoreapp3.1\RandomizingApp.csprojAssemblyReference.cache
+C:\Users\jcab\CSharpCode\Chapter10\RandomizingApp\obj\Debug\netcoreapp3.1\RandomizingApp.AssemblyInfoInputs.cache
+C:\Users\jcab\CSharpCode\Chapter10\RandomizingApp\obj\Debug\netcoreapp3.1\RandomizingApp.AssemblyInfo.cs
+C:\Users\jcab\CSharpCode\Chapter10\RandomizingApp\obj\Debug\netcoreapp3.1\RandomizingApp.csproj.CoreCompileInputs.cache
+C:\Users\jcab\CSharpCode\Chapter10\RandomizingApp\bin\Debug\netcoreapp3.1\RandomizingApp.exe
+C:\Users\jcab\CSharpCode\Chapter10\RandomizingApp\bin\Debug\netcoreapp3.1\RandomizingApp.deps.json
+C:\Users\jcab\CSharpCode\Chapter10\RandomizingApp\bin\Debug\netcoreapp3.1\RandomizingApp.runtimeconfig.json
+C:\Users\jcab\CSharpCode\Chapter10\RandomizingApp\bin\Debug\netcoreapp3.1\RandomizingApp.runtimeconfig.dev.json
+C:\Users\jcab\CSharpCode\Chapter10\RandomizingApp\bin\Debug\netcoreapp3.1\RandomizingApp.dll
+C:\Users\jcab\CSharpCode\Chapter10\RandomizingApp\bin\Debug\netcoreapp3.1\RandomizingApp.pdb
+C:\Users\jcab\CSharpCode\Chapter10\RandomizingApp\bin\Debug\netcoreapp3.1\CryptographyLib.dll
+C:\Users\jcab\CSharpCode\Chapter10\RandomizingApp\bin\Debug\netcoreapp3.1\CryptographyLib.pdb
+C:\Users\jcab\CSharpCode\Chapter10\RandomizingApp\obj\Debug\netcoreapp3.1\RandomizingApp.csproj.CopyComplete
+C:\Users\jcab\CSharpCode\Chapter10\RandomizingApp\obj\Debug\netcoreapp3.1\RandomizingApp.dll
+C:\Users\jcab\CSharpCode\Chapter10\RandomizingApp\obj\Debug\netcoreapp3.1\RandomizingApp.pdb
+C:\Users\jcab\CSharpCode\Chapter10\RandomizingApp\obj\Debug\netcoreapp3.1\RandomizingApp.genruntimeconfig.cache

@@ -95,4 +95,15 @@ This chapter is about protecting your data from being viewed by malicious users 
 - What's new in cryptography?
 - Authenticating and authorizing users
 
+### Chapter 11 - Working with Databases Using Entity Framework Core
+This chapter is about reading and writing to data stores e.g. SQL server, SQLite, Azure Cosmos DB. This chapter covers the following topics:
+- Understatanding modern databases
+- Setting up EF Core
+- Defining EF Core models
+- Querying EF Core models
+- Loading patterns with EF Core
+- Manipulating data with EF Core
+
+
+
 
