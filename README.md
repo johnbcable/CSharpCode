@@ -104,6 +104,16 @@ This chapter is about reading and writing to data stores e.g. SQL server, SQLite
 - Loading patterns with EF Core
 - Manipulating data with EF Core
 
+### Chapter 12 - Querying and Manipulating Data Using LINQ
+This chapter is about Language INtegrated Query (LINQ), a set of language extensions that add the ability to work with sequences of items and then filter, sort, and project them into different outputs. This chapter covers the following topics:
+- Writing LINQ queries
+- Working with sets using LINQ
+- Using LINQ with EF Core
+- Sweetening LINQ syntax with syntactic sugar
+- Using multiple threads with parallel LINQ
+- Creating your own LINQ extension methods
+- Working with LINQ to XML
+
 
 
 
