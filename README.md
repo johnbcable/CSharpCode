@@ -122,6 +122,16 @@ This chapter is about allowing actions to occur at he same time to improve perfo
 - Synchronizing access to shared resources
 - Understanding async and await
 
+### Chapter 14 - Practical Applications of C# and .NET
+This chapter is about building complete cross-platform applications (websites, web services, Windows desktop and mobile apps) and how to add intelligence to them with machine learning. This chapter covers the following topics:
+- Understanding app models for C# and .NET
+- New features in ASP.NET Core
+- Understanding SignalR
+- Understanding Blazor
+- Understanding additional bonus chapters
+- Building an entity data model for Northwind
+
+
 
 
 

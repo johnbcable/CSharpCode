@@ -1,0 +1,13 @@
+C:\Users\jcab\CSharpCode\Chapter13\WorkingWithTasks\bin\Debug\netcoreapp3.1\WorkingWithTasks.exe
+C:\Users\jcab\CSharpCode\Chapter13\WorkingWithTasks\bin\Debug\netcoreapp3.1\WorkingWithTasks.deps.json
+C:\Users\jcab\CSharpCode\Chapter13\WorkingWithTasks\bin\Debug\netcoreapp3.1\WorkingWithTasks.runtimeconfig.json
+C:\Users\jcab\CSharpCode\Chapter13\WorkingWithTasks\bin\Debug\netcoreapp3.1\WorkingWithTasks.runtimeconfig.dev.json
+C:\Users\jcab\CSharpCode\Chapter13\WorkingWithTasks\bin\Debug\netcoreapp3.1\WorkingWithTasks.dll
+C:\Users\jcab\CSharpCode\Chapter13\WorkingWithTasks\bin\Debug\netcoreapp3.1\WorkingWithTasks.pdb
+C:\Users\jcab\CSharpCode\Chapter13\WorkingWithTasks\obj\Debug\netcoreapp3.1\WorkingWithTasks.csprojAssemblyReference.cache
+C:\Users\jcab\CSharpCode\Chapter13\WorkingWithTasks\obj\Debug\netcoreapp3.1\WorkingWithTasks.AssemblyInfoInputs.cache
+C:\Users\jcab\CSharpCode\Chapter13\WorkingWithTasks\obj\Debug\netcoreapp3.1\WorkingWithTasks.AssemblyInfo.cs
+C:\Users\jcab\CSharpCode\Chapter13\WorkingWithTasks\obj\Debug\netcoreapp3.1\WorkingWithTasks.csproj.CoreCompileInputs.cache
+C:\Users\jcab\CSharpCode\Chapter13\WorkingWithTasks\obj\Debug\netcoreapp3.1\WorkingWithTasks.dll
+C:\Users\jcab\CSharpCode\Chapter13\WorkingWithTasks\obj\Debug\netcoreapp3.1\WorkingWithTasks.pdb
+C:\Users\jcab\CSharpCode\Chapter13\WorkingWithTasks\obj\Debug\netcoreapp3.1\WorkingWithTasks.genruntimeconfig.cache

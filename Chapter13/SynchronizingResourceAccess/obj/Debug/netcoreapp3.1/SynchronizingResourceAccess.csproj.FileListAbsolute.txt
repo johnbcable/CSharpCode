@@ -1,0 +1,13 @@
+C:\Users\jcab\CSharpCode\Chapter13\SynchronizingResourceAccess\bin\Debug\netcoreapp3.1\SynchronizingResourceAccess.exe
+C:\Users\jcab\CSharpCode\Chapter13\SynchronizingResourceAccess\bin\Debug\netcoreapp3.1\SynchronizingResourceAccess.deps.json
+C:\Users\jcab\CSharpCode\Chapter13\SynchronizingResourceAccess\bin\Debug\netcoreapp3.1\SynchronizingResourceAccess.runtimeconfig.json
+C:\Users\jcab\CSharpCode\Chapter13\SynchronizingResourceAccess\bin\Debug\netcoreapp3.1\SynchronizingResourceAccess.runtimeconfig.dev.json
+C:\Users\jcab\CSharpCode\Chapter13\SynchronizingResourceAccess\bin\Debug\netcoreapp3.1\SynchronizingResourceAccess.dll
+C:\Users\jcab\CSharpCode\Chapter13\SynchronizingResourceAccess\bin\Debug\netcoreapp3.1\SynchronizingResourceAccess.pdb
+C:\Users\jcab\CSharpCode\Chapter13\SynchronizingResourceAccess\obj\Debug\netcoreapp3.1\SynchronizingResourceAccess.csprojAssemblyReference.cache
+C:\Users\jcab\CSharpCode\Chapter13\SynchronizingResourceAccess\obj\Debug\netcoreapp3.1\SynchronizingResourceAccess.AssemblyInfoInputs.cache
+C:\Users\jcab\CSharpCode\Chapter13\SynchronizingResourceAccess\obj\Debug\netcoreapp3.1\SynchronizingResourceAccess.AssemblyInfo.cs
+C:\Users\jcab\CSharpCode\Chapter13\SynchronizingResourceAccess\obj\Debug\netcoreapp3.1\SynchronizingResourceAccess.csproj.CoreCompileInputs.cache
+C:\Users\jcab\CSharpCode\Chapter13\SynchronizingResourceAccess\obj\Debug\netcoreapp3.1\SynchronizingResourceAccess.dll
+C:\Users\jcab\CSharpCode\Chapter13\SynchronizingResourceAccess\obj\Debug\netcoreapp3.1\SynchronizingResourceAccess.pdb
+C:\Users\jcab\CSharpCode\Chapter13\SynchronizingResourceAccess\obj\Debug\netcoreapp3.1\SynchronizingResourceAccess.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\jcab\CSharpCode\Chapter13\AsyncConsole\obj\Debug\netcoreapp3.1\AsyncConsole.csprojAssemblyReference.cache
+C:\Users\jcab\CSharpCode\Chapter13\AsyncConsole\obj\Debug\netcoreapp3.1\AsyncConsole.AssemblyInfoInputs.cache
+C:\Users\jcab\CSharpCode\Chapter13\AsyncConsole\obj\Debug\netcoreapp3.1\AsyncConsole.AssemblyInfo.cs
+C:\Users\jcab\CSharpCode\Chapter13\AsyncConsole\obj\Debug\netcoreapp3.1\AsyncConsole.csproj.CoreCompileInputs.cache
+C:\Users\jcab\CSharpCode\Chapter13\AsyncConsole\bin\Debug\netcoreapp3.1\AsyncConsole.exe
+C:\Users\jcab\CSharpCode\Chapter13\AsyncConsole\bin\Debug\netcoreapp3.1\AsyncConsole.deps.json
+C:\Users\jcab\CSharpCode\Chapter13\AsyncConsole\bin\Debug\netcoreapp3.1\AsyncConsole.runtimeconfig.json
+C:\Users\jcab\CSharpCode\Chapter13\AsyncConsole\bin\Debug\netcoreapp3.1\AsyncConsole.runtimeconfig.dev.json
+C:\Users\jcab\CSharpCode\Chapter13\AsyncConsole\bin\Debug\netcoreapp3.1\AsyncConsole.dll
+C:\Users\jcab\CSharpCode\Chapter13\AsyncConsole\bin\Debug\netcoreapp3.1\AsyncConsole.pdb
+C:\Users\jcab\CSharpCode\Chapter13\AsyncConsole\obj\Debug\netcoreapp3.1\AsyncConsole.dll
+C:\Users\jcab\CSharpCode\Chapter13\AsyncConsole\obj\Debug\netcoreapp3.1\AsyncConsole.pdb
+C:\Users\jcab\CSharpCode\Chapter13\AsyncConsole\obj\Debug\netcoreapp3.1\AsyncConsole.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\jcab\CSharpCode\Chapter13\MonitoringApp\bin\Debug\netcoreapp3.1\MonitoringApp.exe
+C:\Users\jcab\CSharpCode\Chapter13\MonitoringApp\bin\Debug\netcoreapp3.1\MonitoringApp.deps.json
+C:\Users\jcab\CSharpCode\Chapter13\MonitoringApp\bin\Debug\netcoreapp3.1\MonitoringApp.runtimeconfig.json
+C:\Users\jcab\CSharpCode\Chapter13\MonitoringApp\bin\Debug\netcoreapp3.1\MonitoringApp.runtimeconfig.dev.json
+C:\Users\jcab\CSharpCode\Chapter13\MonitoringApp\bin\Debug\netcoreapp3.1\MonitoringApp.dll
+C:\Users\jcab\CSharpCode\Chapter13\MonitoringApp\bin\Debug\netcoreapp3.1\MonitoringApp.pdb
+C:\Users\jcab\CSharpCode\Chapter13\MonitoringApp\bin\Debug\netcoreapp3.1\MonitoringLib.dll
+C:\Users\jcab\CSharpCode\Chapter13\MonitoringApp\bin\Debug\netcoreapp3.1\MonitoringLib.pdb
+C:\Users\jcab\CSharpCode\Chapter13\MonitoringApp\obj\Debug\netcoreapp3.1\MonitoringApp.csprojAssemblyReference.cache
+C:\Users\jcab\CSharpCode\Chapter13\MonitoringApp\obj\Debug\netcoreapp3.1\MonitoringApp.AssemblyInfoInputs.cache
+C:\Users\jcab\CSharpCode\Chapter13\MonitoringApp\obj\Debug\netcoreapp3.1\MonitoringApp.AssemblyInfo.cs
+C:\Users\jcab\CSharpCode\Chapter13\MonitoringApp\obj\Debug\netcoreapp3.1\MonitoringApp.csproj.CoreCompileInputs.cache
+C:\Users\jcab\CSharpCode\Chapter13\MonitoringApp\obj\Debug\netcoreapp3.1\MonitoringApp.csproj.CopyComplete
+C:\Users\jcab\CSharpCode\Chapter13\MonitoringApp\obj\Debug\netcoreapp3.1\MonitoringApp.dll
+C:\Users\jcab\CSharpCode\Chapter13\MonitoringApp\obj\Debug\netcoreapp3.1\MonitoringApp.pdb
+C:\Users\jcab\CSharpCode\Chapter13\MonitoringApp\obj\Debug\netcoreapp3.1\MonitoringApp.genruntimeconfig.cache

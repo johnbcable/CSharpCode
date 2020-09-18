@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BniYJFdSWaS1/3ES8OxYLjc5aHlL24H6rX59CD6GzbdY9D8DL3/6A8Cx3/BNPnK+HJ1sdVs9r0HDzveqQQAEWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jcab\\CSharpCode\\Chapter13\\MonitoringLib\\MonitoringLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jcab\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jcab\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\jcab\CSharpCode\Chapter13\AsyncEnumerable\obj\Debug\netcoreapp3.1\AsyncEnumerable.csprojAssemblyReference.cache
+C:\Users\jcab\CSharpCode\Chapter13\AsyncEnumerable\obj\Debug\netcoreapp3.1\AsyncEnumerable.AssemblyInfoInputs.cache
+C:\Users\jcab\CSharpCode\Chapter13\AsyncEnumerable\obj\Debug\netcoreapp3.1\AsyncEnumerable.AssemblyInfo.cs
+C:\Users\jcab\CSharpCode\Chapter13\AsyncEnumerable\obj\Debug\netcoreapp3.1\AsyncEnumerable.csproj.CoreCompileInputs.cache
+C:\Users\jcab\CSharpCode\Chapter13\AsyncEnumerable\bin\Debug\netcoreapp3.1\AsyncEnumerable.exe
+C:\Users\jcab\CSharpCode\Chapter13\AsyncEnumerable\bin\Debug\netcoreapp3.1\AsyncEnumerable.deps.json
+C:\Users\jcab\CSharpCode\Chapter13\AsyncEnumerable\bin\Debug\netcoreapp3.1\AsyncEnumerable.runtimeconfig.json
+C:\Users\jcab\CSharpCode\Chapter13\AsyncEnumerable\bin\Debug\netcoreapp3.1\AsyncEnumerable.runtimeconfig.dev.json
+C:\Users\jcab\CSharpCode\Chapter13\AsyncEnumerable\bin\Debug\netcoreapp3.1\AsyncEnumerable.dll
+C:\Users\jcab\CSharpCode\Chapter13\AsyncEnumerable\bin\Debug\netcoreapp3.1\AsyncEnumerable.pdb
+C:\Users\jcab\CSharpCode\Chapter13\AsyncEnumerable\obj\Debug\netcoreapp3.1\AsyncEnumerable.dll
+C:\Users\jcab\CSharpCode\Chapter13\AsyncEnumerable\obj\Debug\netcoreapp3.1\AsyncEnumerable.pdb
+C:\Users\jcab\CSharpCode\Chapter13\AsyncEnumerable\obj\Debug\netcoreapp3.1\AsyncEnumerable.genruntimeconfig.cache

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MonitoringApp/1.0.0": {
+        "dependencies": {
+          "MonitoringLib": "1.0.0"
+        },
+        "runtime": {
+          "MonitoringApp.dll": {}
+        }
+      },
+      "MonitoringLib/1.0.0": {
+        "runtime": {
+          "MonitoringLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MonitoringApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MonitoringLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

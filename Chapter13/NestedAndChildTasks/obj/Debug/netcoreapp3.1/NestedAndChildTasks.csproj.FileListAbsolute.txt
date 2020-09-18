@@ -1,0 +1,13 @@
+C:\Users\jcab\CSharpCode\Chapter13\NestedAndChildTasks\bin\Debug\netcoreapp3.1\NestedAndChildTasks.exe
+C:\Users\jcab\CSharpCode\Chapter13\NestedAndChildTasks\bin\Debug\netcoreapp3.1\NestedAndChildTasks.deps.json
+C:\Users\jcab\CSharpCode\Chapter13\NestedAndChildTasks\bin\Debug\netcoreapp3.1\NestedAndChildTasks.runtimeconfig.json
+C:\Users\jcab\CSharpCode\Chapter13\NestedAndChildTasks\bin\Debug\netcoreapp3.1\NestedAndChildTasks.runtimeconfig.dev.json
+C:\Users\jcab\CSharpCode\Chapter13\NestedAndChildTasks\bin\Debug\netcoreapp3.1\NestedAndChildTasks.dll
+C:\Users\jcab\CSharpCode\Chapter13\NestedAndChildTasks\bin\Debug\netcoreapp3.1\NestedAndChildTasks.pdb
+C:\Users\jcab\CSharpCode\Chapter13\NestedAndChildTasks\obj\Debug\netcoreapp3.1\NestedAndChildTasks.csprojAssemblyReference.cache
+C:\Users\jcab\CSharpCode\Chapter13\NestedAndChildTasks\obj\Debug\netcoreapp3.1\NestedAndChildTasks.AssemblyInfoInputs.cache
+C:\Users\jcab\CSharpCode\Chapter13\NestedAndChildTasks\obj\Debug\netcoreapp3.1\NestedAndChildTasks.AssemblyInfo.cs
+C:\Users\jcab\CSharpCode\Chapter13\NestedAndChildTasks\obj\Debug\netcoreapp3.1\NestedAndChildTasks.csproj.CoreCompileInputs.cache
+C:\Users\jcab\CSharpCode\Chapter13\NestedAndChildTasks\obj\Debug\netcoreapp3.1\NestedAndChildTasks.dll
+C:\Users\jcab\CSharpCode\Chapter13\NestedAndChildTasks\obj\Debug\netcoreapp3.1\NestedAndChildTasks.pdb
+C:\Users\jcab\CSharpCode\Chapter13\NestedAndChildTasks\obj\Debug\netcoreapp3.1\NestedAndChildTasks.genruntimeconfig.cache
