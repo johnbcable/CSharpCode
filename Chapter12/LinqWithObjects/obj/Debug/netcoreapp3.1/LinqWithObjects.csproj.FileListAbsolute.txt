@@ -1,0 +1,13 @@
+C:\Users\jcab\CSharpCode\Chapter12\LinqWithObjects\bin\Debug\netcoreapp3.1\LinqWithObjects.exe
+C:\Users\jcab\CSharpCode\Chapter12\LinqWithObjects\bin\Debug\netcoreapp3.1\LinqWithObjects.deps.json
+C:\Users\jcab\CSharpCode\Chapter12\LinqWithObjects\bin\Debug\netcoreapp3.1\LinqWithObjects.runtimeconfig.json
+C:\Users\jcab\CSharpCode\Chapter12\LinqWithObjects\bin\Debug\netcoreapp3.1\LinqWithObjects.runtimeconfig.dev.json
+C:\Users\jcab\CSharpCode\Chapter12\LinqWithObjects\bin\Debug\netcoreapp3.1\LinqWithObjects.dll
+C:\Users\jcab\CSharpCode\Chapter12\LinqWithObjects\bin\Debug\netcoreapp3.1\LinqWithObjects.pdb
+C:\Users\jcab\CSharpCode\Chapter12\LinqWithObjects\obj\Debug\netcoreapp3.1\LinqWithObjects.csprojAssemblyReference.cache
+C:\Users\jcab\CSharpCode\Chapter12\LinqWithObjects\obj\Debug\netcoreapp3.1\LinqWithObjects.AssemblyInfoInputs.cache
+C:\Users\jcab\CSharpCode\Chapter12\LinqWithObjects\obj\Debug\netcoreapp3.1\LinqWithObjects.AssemblyInfo.cs
+C:\Users\jcab\CSharpCode\Chapter12\LinqWithObjects\obj\Debug\netcoreapp3.1\LinqWithObjects.csproj.CoreCompileInputs.cache
+C:\Users\jcab\CSharpCode\Chapter12\LinqWithObjects\obj\Debug\netcoreapp3.1\LinqWithObjects.dll
+C:\Users\jcab\CSharpCode\Chapter12\LinqWithObjects\obj\Debug\netcoreapp3.1\LinqWithObjects.pdb
+C:\Users\jcab\CSharpCode\Chapter12\LinqWithObjects\obj\Debug\netcoreapp3.1\LinqWithObjects.genruntimeconfig.cache

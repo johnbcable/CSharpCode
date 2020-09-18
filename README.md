@@ -114,6 +114,14 @@ This chapter is about Language INtegrated Query (LINQ), a set of language extens
 - Creating your own LINQ extension methods
 - Working with LINQ to XML
 
+### Chapter 13 - Improving Performance and Scalability Using Multitasking
+This chapter is about allowing actions to occur at he same time to improve performance, scalability and user productivity for the applications you build. This chapter covers the following topics:
+- Understanding processes, threads and tasks
+- Monitoring performance and resource usage
+- Running tasks asynchronously
+- Synchronizing access to shared resources
+- Understanding async and await
+
 
 
 

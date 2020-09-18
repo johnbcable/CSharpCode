@@ -143,10 +143,10 @@ namespace WorkingWithEFCore
                 WriteLine("{0,-3} {1, -35} {2,8} {3,5} {4}",
                 "ID", "Product Name", "Cost", "Stock", "Disc.");
 
-                // foreach (var item in db.Products.OrderByDescending(p => p.Cost))
+                foreach (var item in db.Products.OrderByDescending(p => p.Cost))
                 //
                 // Cant order results by decimal type (Cost)
-                foreach (var item in db.Products)
+                // foreach (var item in db.Products)
                 {
                     WriteLine("{0:000} {1, -35} {2,8:$#,##0.00} {3,5} {4}",
                 item.ProductID, item.ProductName, item.Cost, 
@@ -209,9 +209,10 @@ namespace WorkingWithEFCore
                 WriteLine("Update product price successful");
             }
 */
+ /*
             int deleted = DeleteProducts("Bob");
             WriteLine($"{deleted} product(s) were deleted.");
-
+*/
             ListProducts();
         }
     }

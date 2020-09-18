@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "LinqWithObjects"
+		},
+		{
+			"path": "LinqWithSets"
+		},
+		{
+			"path": "LinqWithEFCore"
+		},
+		{
+			"path": "LinqInParallel"
+		}
+	]
+}
