@@ -131,6 +131,16 @@ This chapter is about building complete cross-platform applications (websites, w
 - Understanding additional bonus chapters
 - Building an entity data model for Northwind
 
+N.B. This chapter provides foundation class libraries to be used in succeeding chapters.
+
+### Chapter 15 - Building Websites Using ASP.NET Core Razor Pages
+This chapter is about building websites with a modern HTTP architecture on the server side using Microsoft ASP.NET Core. This chapter covers the following topics:
+- Understanding web development
+- Understanding ASP.NET Core
+- Exploring Razor pages
+- Using Entity Framework Core with ASP.NET Core
+- Using Razor class libraries
+
 
 
 
