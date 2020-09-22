@@ -1,0 +1,9 @@
+C:\Users\jcab\CSharpCode\PracticalApps\NorthwindEntitiesLib\bin\Debug\netstandard2.1\NorthwindEntitiesLib.deps.json
+C:\Users\jcab\CSharpCode\PracticalApps\NorthwindEntitiesLib\bin\Debug\netstandard2.1\NorthwindEntitiesLib.dll
+C:\Users\jcab\CSharpCode\PracticalApps\NorthwindEntitiesLib\bin\Debug\netstandard2.1\NorthwindEntitiesLib.pdb
+C:\Users\jcab\CSharpCode\PracticalApps\NorthwindEntitiesLib\obj\Debug\netstandard2.1\NorthwindEntitiesLib.csprojAssemblyReference.cache
+C:\Users\jcab\CSharpCode\PracticalApps\NorthwindEntitiesLib\obj\Debug\netstandard2.1\NorthwindEntitiesLib.AssemblyInfoInputs.cache
+C:\Users\jcab\CSharpCode\PracticalApps\NorthwindEntitiesLib\obj\Debug\netstandard2.1\NorthwindEntitiesLib.AssemblyInfo.cs
+C:\Users\jcab\CSharpCode\PracticalApps\NorthwindEntitiesLib\obj\Debug\netstandard2.1\NorthwindEntitiesLib.csproj.CoreCompileInputs.cache
+C:\Users\jcab\CSharpCode\PracticalApps\NorthwindEntitiesLib\obj\Debug\netstandard2.1\NorthwindEntitiesLib.dll
+C:\Users\jcab\CSharpCode\PracticalApps\NorthwindEntitiesLib\obj\Debug\netstandard2.1\NorthwindEntitiesLib.pdb

@@ -4,12 +4,12 @@ Repository of my code samples pairing with the text C# 8.0 and .NET Core 3.0
 
 ## Summary of chapters
 
-### Chapter 1
+### Chapter 1 - Hello, C#! Welcome, .NET
 Some initial background information on C# (HelloCS) and tips on how to set up your development environment.
 Main editor is going to be Visual Studio Code. 
 Recommended extensions to install are:
 
-### Chapter 2
+### Chapter 2 - Speaking C#
 Going into more depth in basic language features:
 - numbers, 
 - variables, 
@@ -18,14 +18,14 @@ Going into more depth in basic language features:
 - arrays, 
 - arguments (command line)
 
-### Chapter 3
+### Chapter 3 - Controlling Flowe and Converting Types
 This chapter covers controlling flow and converting types with the following topics:
 - Operating on variables
 - Understanding selection and iteration statements
 - Casting and converting between types
 - Handling excepions incl. checking for overflow
 
-### Chapter 4
+### Chapter 4 - Writing, Debugging and Testing Functions
 This chapter is all about writing, debugging and testing functions. It covers the following topics:
 - Writing functions
 - Debugging, during development
@@ -140,6 +140,16 @@ This chapter is about building websites with a modern HTTP architecture on the s
 - Exploring Razor pages
 - Using Entity Framework Core with ASP.NET Core
 - Using Razor class libraries
+
+N.B.  The code-along does not match the code download for this book e.g. in the book we create a NorthwindEmployees folder in PracticalApps but this is not present in the code download. Also, code from P500 onwards in the book does not build or run NorthwindWeb but NorthwindWeb from the code download does build and run.
+
+### Chapter 16 - Building Websites the Model-View-Controller Pattern
+This chapter is about building websites with a modern HTTP architecture on the server side using Microsoft ASP.NET Core MVC, including the startup configuration, authentication, authorization, routes, models, views and controllers. This chapter covers the following topics:
+- Setting up an ASP.NET Core MVC website
+- Exploring an ASP.NET Core MVC website
+- Customizing an ASP.NET Core MVC website
+- Using other project templates
+
 
 
 

@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J/5iR9vtbyUZWlWugcJ+GKnmSa90WPtdnt0Vv49gD7ar91lesa7pZ/XplTvN9i4s2r8Z1xMqkCYCbyLRYSSAaQ==",
+  "dgSpecHash": "+yz6Yj5T9CAbxr3LBphFgrQeKbmrE5zqFk6FxFNoA48HIPa94sFyx9zrowxFzcfRE3fwgdndlNk/eux/Gx+T+w==",
   "success": true,
   "projectFilePath": "C:\\Users\\jcab\\CSharpCode\\PracticalApps\\NorthwindEntitiesLib\\NorthwindEntitiesLib.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\jcab\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\jcab\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

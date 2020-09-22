@@ -1,0 +1,41 @@
+{
+  "FilePath": "c:\\Users\\jcab\\CSharpCode\\PracticalApps\\NorthwindEmployees\\NorthwindEmployees.csproj",
+  "Configuration": {
+    "ConfigurationName": "Default",
+    "LanguageVersion": "3.0",
+    "Extensions": []
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 703
+  },
+  "RootNamespace": "NorthwindEmployees",
+  "Documents": [
+    {
+      "FilePath": "c:\\Users\\jcab\\CSharpCode\\PracticalApps\\NorthwindEmployees\\Areas\\PacktFeatures\\Pages\\Shared\\_Employee.cshtml",
+      "TargetPath": "Areas\\PacktFeatures\\Pages\\Shared\\_Employee.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jcab\\CSharpCode\\PracticalApps\\NorthwindEmployees\\Areas\\PacktFeatures\\Pages\\employees.cshtml",
+      "TargetPath": "Areas\\PacktFeatures\\Pages\\employees.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jcab\\CSharpCode\\PracticalApps\\NorthwindEmployees\\_Imports.razor",
+      "TargetPath": "_Imports.razor",
+      "FileKind": "componentImport"
+    },
+    {
+      "FilePath": "c:\\Users\\jcab\\CSharpCode\\PracticalApps\\NorthwindEmployees\\Component1.razor",
+      "TargetPath": "Component1.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\jcab\\CSharpCode\\PracticalApps\\NorthwindEmployees\\Areas\\PacktFeatures\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "Areas\\PacktFeatures\\Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
+  "SerializationFormat": "0.2"
+}
