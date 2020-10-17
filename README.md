@@ -150,6 +150,15 @@ This chapter is about building websites with a modern HTTP architecture on the s
 - Customizing an ASP.NET Core MVC website
 - Using other project templates
 
+### Chapter 17 - Building Websites Using a Content Management System
+This chapter is about building websites using a modern cross-platform Content Management System (CMS) - in this chapter we use Piranha CMS as it was the first CMS to support .NET Core. This chapter covers the following topics:
+- Understanding the benefits of a CMS
+- Understanding Piranha CMS
+- Defining components, content types and templates
+- Testing the CMS website
+
+
+
 
 
 
