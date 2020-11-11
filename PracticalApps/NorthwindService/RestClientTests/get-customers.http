@@ -1,0 +1,6 @@
+###
+GET https://localhost:5001/api/customers/?country=Germany HTTP/1.1
+###
+GET https://localhost:5001/api/customers/?country=USA HTTP/1.1
+###
+GET https://localhost:5001/api/customers/ALFKI HTTP/1.1

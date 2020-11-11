@@ -99,3 +99,4 @@ C:\Users\jcab\CSharpCode\PracticalApps\NorthwindMvc\bin\Debug\netcoreapp3.1\Nort
 C:\Users\jcab\CSharpCode\PracticalApps\NorthwindMvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\ProductDetail.cshtml.g.cs
 C:\Users\jcab\CSharpCode\PracticalApps\NorthwindMvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\ModelBinding.cshtml.g.cs
 C:\Users\jcab\CSharpCode\PracticalApps\NorthwindMvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\ProductsThatCostMoreThan.cshtml.g.cs
+C:\Users\jcab\CSharpCode\PracticalApps\NorthwindMvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Customers.cshtml.g.cs

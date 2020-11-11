@@ -157,6 +157,21 @@ This chapter is about building websites using a modern cross-platform Content Ma
 - Defining components, content types and templates
 - Testing the CMS website
 
+N.B.  Skipped majority of this chapter as dont use a CMS right now.
+
+### Chapter 18 - Building and Consuming Web Services
+This chapter is about learning ho to build web services using ASP.NET Core Web API and then consuming these services using HTTP clients of any sort. This chapter covers the following topics:
+- Building web services using ASP.NET Core Web API
+- Documenting and testing web services
+- Consuming services using HTTP clients
+- Implementing advanced features
+- Understanding other communication technologies e.g. WCF 
+
+### Chapter 19 - Building Intelligent Apps Using Machine Learning
+This chapter is about embedding intelligence into your apps using machine learning algorithms. We will illusrtate this using Microsft's cross-platform ML.NET library. This chapter covers the following topics:
+- Understanding machine learning
+- Understanding ML.NET
+- Making product recommendations
 
 
 
